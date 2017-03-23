@@ -1,0 +1,30 @@
+**Fried Egg Sandwich with Bacon and Blue Cheese [Egg Sandwich Lyonnaise]**
+Inspired by 'Wichcraft + my favorite bistro salad
+
+Note: If you don't like like frisée lettuce, spinach is also a great friend to bacon vinaigrettes. The blue cheese could be replaced with another sharp, crumbly cheese.
+
+Makes 2 sandwiches
+
+2 ciabatta rolls
+
+1 1/2 cups frisée (French curly endive), torn into-bite size pieces (about 2 ounces)
+1 bacon slice, preferably thick-cut
+1 tablespoon minced shallot (from 1 small)
+1 teaspoon smooth Dijon mustard
+4 teaspoons red wine vinegar
+Salt and freshly ground black pepper
+1/4 cup crumbled blue cheese
+
+1 to 2 teaspoons unsalted butter, divided
+2 large eggs
+Salt and freshly ground black pepper
+
+Split your rolls and put them in to toast.
+
+Place frisée in a medium bowl. Cut bacon crosswise into 1/4-inch wide lardons. In a small heavy skillet, cook bacon over moderate heat, until pieces are crisp. With a slotted spoon, transfer bacon to paper towels, reserving bacon fat in pan. Add shallot to bacon fat and cook for one minute, stirring. Add red wine vinegar and let hiss and bubble for 20 to 30 seconds, then remove from heat and whisk in Dijon. Immediately pour hot dressing over frisée and toss with drained lardons, salt and pepper. Don't try the salad just yet or you will be tempted to eat it just the way it is when, I promise, it's even better with an egg on top.
+
+Remove rolls from toaster and divide bacon-frisee salad between each bottom bun. You'll want to heap on more than seems feasible or needed, especially once you realize how tasty it is. Top each salad pile with half (2 tablespoons) of the blue cheese.
+
+Reheat skillet over medium-high heat. Add the butter and swirl it to coat the pan. Crack one egg into the skillet, season with salt and pepper and reduce heat to medium. I like to cover the skillet with a small lid at this point, as it seems to help the egg cook faster and more evenly. In one minute, you should have a perfect sunny-side-up egg. However, I find that for this sandwich, to _somewhat_ rein in the mess, it helps to then flip the egg for 20 to 30 seconds, until the yolk is still runny, but less likely to run right off your sandwich.
+
+Remove the egg from the pan and place it on top of the bacon-frisée salad on the bun. Repeat with remaining egg and come on, what are you waiting for? Dig in.

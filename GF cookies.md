@@ -1,0 +1,12 @@
+- 1 stick unsalted butter, softened to room temperature
+- 1/2 cup dark brown sugar, packed
+- 2 teaspoons  [vanilla extract](http://www.kingarthurflour.com/shop/items/king-arthur-pure-vanilla-extract-16-oz)
+- 1/4 cup granulated sugar
+- 1/2 large egg
+- 1/2 large egg yolk
+- 1 1/8 cups  [King Arthur Unbleached All-Purpose Flour](http://www.kingarthurflour.com/shop/items/king-arthur-unbleached-all-purpose-flour-5-lb)
+- 1/2 teaspoon salt
+- 1/2 teaspoon baking soda
+- 1/2 cup  [bittersweet chocolate chips](http://www.kingarthurflour.com/shop/items/guittard-bittersweet-chocolate-chips-3-lb)
+
+- coarse  [sea salt](http://www.kingarthurflour.com/shop/items/maldon-crystal-sea-salt-85-oz), to sprinkle on top
