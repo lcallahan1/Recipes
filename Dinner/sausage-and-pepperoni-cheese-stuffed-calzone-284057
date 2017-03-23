@@ -1,0 +1,2752 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+
+
+
+
+
+
+
+
+
+				
+
+				
+
+
+<html>
+
+
+
+
+<head>
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=7" />
+	
+	
+	<link rel="shortcut icon" type="image/x-icon" href="http://www.food.com/favicon.ico"/>	
+	<link rel="stylesheet" href="http://food.sndimg.com/css/?minify=1" type="text/css" />
+	<link rel="stylesheet" href="http://food.sndimg.com/css/modules/integrated-services/twitter.css" type="text/css" />
+	
+	
+		
+	
+	<script src="http://food.sndimg.com/js/rz2/?minify=1" charset="utf-8"></script>
+	
+    
+
+    <script type="text/javascript" src="http://food.sndimg.com/js/rz2/sni-rz/recipe.js?minify=1" charset="utf-8"></script>
+    <script type="text/javascript" src="http://food.sndimg.com/js/rz2/sni-rz/collectionlanding.js?minify=1" charset="utf-8"></script>
+
+	
+
+	<script type="text/javascript">
+		try{
+			SNI.Ads._adServerHostname = 'adsremote.scrippsnetworks.com';
+		}catch(e){}
+		
+		mdManager = new MetaDataManager();
+	</script>
+	
+
+
+<script type="text/javascript">
+	mdManager.addParameter("adkey1","ITALIAN");		
+	mdManager.addParameter("adkey2","NONE");		
+	mdManager.addParameter("CategoryDspName","RECIPES");		
+	mdManager.addParameter("Classification","RECIPES,RECIPES,FOODCOM");		
+	mdManager.addParameter("keywordids","10,12,13,15,16,17,89,143,156,180,183");		
+	mdManager.addParameter("keywords","30_minutes_or_less,time_to_make,course,cuisine,preparation,occasion,main_dish,european,dinner_party,pizza,italian");		
+	mdManager.addParameter("SctnDspName","RECIPES");		
+	mdManager.addParameter("Site","FOODCOM");		
+	mdManager.addParameter("Type","RECIPE");		
+	mdManager.addParameter("UniqueId","1-284057-recipe");	
+	mdManager.addParameter("Subdomain","");
+	mdManager.addParameter("Url","http://www.food.com/recipe/sausage-and-pepperoni-cheese-stuffed-calzone-284057");	
+	mdManager.addParameter('Title',"Sausage And Pepperoni Cheese Stuffed Calzone Recipe - Food.com - 284057");
+</script>
+	
+	<script type="text/javascript">
+	if(!SNI){
+		SNI = {};
+	}
+	if(!SNI.RZ){
+		SNI.RZ = {};
+	}
+	if(!SNI.RZ.Sifter){
+		SNI.RZ.Sifter = {}
+	}
+	//initialize with emptyString to make sure the Sifer Object initialized no matter what we have in the request.
+	
+	SNI.RZ.Sifter.sifter_urlParams = "key=sausage-and-pepperoni-cheese-stuffed-calzone-284057";
+	
+	</script>
+		
+	<script type="text/javascript">
+		if(!SNI.RZ.Sifter){
+			SNI.RZ.Sifter = {}
+		}
+		//initialize with emptyString to make sure the Sifer Object initialized no matter what we have in the request.
+		
+		SNI.RZ.Sifter.sifter_urlParams = "key=sausage-and-pepperoni-cheese-stuffed-calzone-284057";
+		
+		 mdManager.addParameter("recipeSifter", "ausage-and-pepperoni-cheese-stuffed-calzone-284057");			
+		
+		/*
+		TAB NAME ::: null
+		PAGE TYPE ::: null
+		
+		*/
+	</script>
+	
+	
+	
+	
+
+
+    <script type="text/javascript">
+        if(typeof(SNI)=='undefined'){SNI={};}
+        if(typeof(SNI.Community)=='undefined'){SNI.Community={};}
+        if(typeof(SNI.Community.UR)=='undefined'){SNI.Community.UR={};}
+
+        SNI.Community.UR.ViewingUserDisplayName = '';
+        SNI.Community.UR.ViewingUserName = '';
+        SNI.Community.UR.ViewingUserPostalCode = '';
+        SNI.Community.UR.ViewingUserState = '';
+        SNI.Community.UR.ViewingUserCountry = '';
+        SNI.Community.UR.ViewingMemberId = '';
+        SNI.Community.UR.logged_in=false;
+
+        SNI.Community.UR.shareServerUrl='http://share.food.com';
+        SNI.Community.UR.globalLoginURL='http://share.food.com/registration/login.esi';
+        SNI.Community.UR.globalLogoutBaseUrl='http://share.food.com/redirectors/logout_redirector.jsp';
+        SNI.Community.UR.globalRegistrationURL='http://share.food.com/registration/register.esi';
+        SNI.Community.UR.globalRegistrationLiteURL='http://share.food.com/registration/register_lite.esi';
+        SNI.Community.UR.globalPrivateProfileUrl='http://share.food.com/community/style.esi';
+        SNI.Community.UR.globalUserSettingsUrl='http://share.food.com/community/usersettings.esi';
+        SNI.Community.UR.imageServerUrl='http://food.sndimg.com';
+        SNI.Community.UR.previewUrl='null';
+
+        SNI.RZ.globalServerURL='http://www.food.com';
+
+    </script>
+
+    <script type="text/javascript">
+        try{
+            mdManager.addParameter('UserId', SNI.Community.UR.ViewingMemberId);
+            mdManager.addParameter('UserIdEmail', SNI.Community.UR.ViewingUserName);
+        }catch(e){
+        }
+        var adManager = new AdManager();
+        initAdManager(adManager, mdManager);
+
+        var g_adkeyword="Sausage And Pepperoni Cheese Stuffed Calzone Recipe - Food.com - 284057";
+        var g_aduniqueid = '';
+        var g_recipesource= '';
+    </script>
+
+
+	<title>Sausage And Pepperoni Cheese Stuffed Calzone Recipe - Food.com - 284057</title>
+	
+	<meta name="keywords" lang="en" content="sausage,pizza dough,part-skim ricotta cheese,mozzarella cheese,parmesan cheese,pepperoni slices,italian seasoning,crushed red pepper flakes,garlic cloves,olive oil,parmesan cheese,marinara sauce,salt and pepper recipe, recipes, recipies"/>
+	<meta name="description" lang="en" content="This is a great, tasty big calzone!  I used one can of Pillsbury pizza dough (about 13.5 ounces) which is a great way to make this calzone quickly.  I made one large calzone which was divided to serve two people."/>
+	
+	<link rel="canonical" href="http://www.food.com/recipe/sausage-and-pepperoni-cheese-stuffed-calzone-284057"/>
+</head>
+
+
+
+
+<body onload="javascript: try{document.getElementById('cmt_txt').focus();}catch(e){}">
+
+
+
+
+
+<div id="rz-site-hd">
+	
+	
+  	<div id="rz-leaderboard-wrap">
+   		<div><script type="text/javascript">LeaderboardAd('1',mdManager.getKeywords());</script></div>
+  	</div>
+ 	
+
+	
+
+
+
+
+
+
+ 
+
+ 
+ 
+	<div id="rz-masthead">
+		<div id="rz-logo"><a href="http://www.food.com">Food.com: The most complete collection of free recipes on the Internet, trusted by home chefs throughout the world.</a></div>
+		
+
+
+
+<div id="occasionHeader" style="background-image: url('http://food.sndimg.com/img/header/1lJxkd.jpg')"><a href="http://www.food.com/summer-grilling/home/package" title="Summer Grilling">Summer Grilling</a></div>
+		<div class="search">
+		<!-- <form id="header-search-form" name="header-search-form" class="clrfix" name="headerSearchForm" onsubmit="setSuggestValue();"  method="get">-->
+			<div class="input">
+				<input autocomplete="off" name="q" id="rz-search-input" type="text" onKeyPress="return disableEnterKey(event);" />
+			</div>
+			
+			
+			<div class="site-search-options" id="site-search-options-id" onClick="javascript:closeAutoSuggest();">
+				<select style="display: none;" id="HeadSrchOpt" name="t" class="fhd noscroll">
+					<option class="select-title">Search:</option>
+					<!-- <option id="site" value="">Entire Site</option> -->
+					<option id="recipe"  value="Record Type:Recipe" selected="selected">Recipes</option>	
+					<option id="photo" value="Record Type:Photo" >Photos</option>
+					<option id="cookbook" value="Record Type:Cookbook" >Cookbooks</option>
+					<option id="menu" value="Record Type:Menu" >Menus</option>
+					<option id="ingredient" value="Record Type:Ingredient" >Ingredients</option>
+					<option id="member" value="Record Type:Member" >Members</option>
+				</select>
+				<script type="text/javascript" charset="utf-8">
+					$('#HeadSrchOpt').dropdown();
+				</script>
+			</div>
+			
+			<div id="rz-search-submit-click"><button id="rz-search-submit" title="Search" type="button" onclick="searchRecord();">Search</button></div>
+			
+		</div>
+		<!-- </form> -->
+		
+
+
+<div class="rz-login-status"  id="rz-login-signed-out">
+	<p><a href="http://share.food.com/registration/register.esi"><strong>Join Food.com for Free</strong></a></p>
+	<p>
+		<a href="#" id="rz-login-status-login_link">Sign In</a>
+		<script type="text/javascript">
+			$("#rz-login-status-login_link").attr("href",'http://share.food.com/registration/login.esi?DEST_URL='+escape(document.location.href));
+		</script>
+		<span class="sep">|</span>
+		<a href="http://www.food.com/sitetour1.do">Take the Tour</a>
+	</p>
+</div>
+
+
+		
+
+
+<div class="rz-login-status" id="rz-login-signed-in">
+	<div class="rz-w">				
+		<p><a href="http://share.food.com/community/style.esi">User at Food.com</a></p>
+		<p><a href="http://www.food.com/mail" class="inbox">Inbox <span>(0)</span></a></p>
+	</div>
+	<div class="rz-e logged-in">
+		<a href="http://share.food.com/community/style.esi"><img id="my_image_tag" src="" alt="FPO" /></a>
+		<a id="logged-in-options"><!-- --></a>
+	</div>
+
+	<dl class="ui-dropdown fhd noscroll" id="rz-login-status-user-menu">
+		<dt class="fly-dt"><p>&nbsp;</p></dt>
+		<dd class="flyout fly-dd">
+			<div class="fly-hd"></div>
+			<div class="fly-bd">
+				<ul class="fly-ul">
+					<li class="fly-li"><a href="http://share.food.com/community/style.esi">My Profile</a></li>
+					<li class="fly-li"><a href="http://share.food.com/community/usersettings.esi">My Settings</a></li>
+					<li class="fly-li"><a href="http://www.food.com/mycookbook">My Cookbooks</a></li>
+					<li class="fly-li"><a href="http://www.food.com/menu/mymenus.php">My Menus</a></li>
+					<li class="fly-li"><a href="http://www.food.com/myshopcart">My Shopping List</a></li>
+					<li class="fly-li"><a href="http://share.food.com/community/favorites.esi">My Favorites</a></li>
+					<li class="fly-li"><a href="#" id="sign-out-all">Sign Out</a></li>
+				</ul>
+			</div>
+			<div class="fly-ft"></div>
+		</dd>
+	</dl>
+</div>
+	</div>
+
+	
+	
+	<div id="nav_spacer"></div>
+	
+
+
+
+<ul id="NavSignedOut" class="headernav">
+	<li class="nav_recipes">
+		<h4><a href="http://www.food.com/recipes" rel="gh-t1">Recipes</a></h4>
+		<div>
+			<span>Recipes Navigation</span>
+			<ul>
+				<li class="popular">
+					<h5>Popular Recipes</h5>
+					<ul>
+						<li><a href="http://www.food.com/summer-grilling/home/package " rev="Recipes" rel="gh-t1-1">Grilling Recipes</a></li>
+						<li><a href="http://www.food.com/recipe-collection/potato-salad" rev="Recipes"  rel="gh-t1-2">Potato Salad Recipes</a></li>
+						<li><a href="http://www.food.com/recipes/ground-beef" rev="Recipes"  rel="gh-t1-3">Hamburger Recipes</a></li>
+						<li><a href="http://www.food.com/recipes/pork-chops" rev="Recipes"  rel="gh-t1-4">Pork Chop Recipes</a></li>
+						<li><a href="http://www.food.com/recipes/casseroles" rev="Recipes"  rel="gh-t1-5">Casserole Recipes</a></li>
+						<li><a href="http://italian.food.com/recipes/pasta" rev="Recipes"  rel="gh-t1-6">Pasta Recipes</a></li>
+						<li><a href="http://www.food.com/recipes/chicken" rev="Recipes"  rel="gh-t1-7">Chicken Recipes</a></li>
+						<li><a href="http://www.food.com/recipes/vegetarian" rev="Recipes"  rel="gh-t1-8">Vegetarian Recipes</a></li>
+						<li><a href="http://dessert.food.com" rev="Recipes"  rel="gh-t1-9">Dessert Recipes</a></li>
+						<li><a href="http://healthy.food.com" rev="Recipes"  rel="gh-t1-10">Healthy Recipes</a></li>
+					</ul>
+				</li>
+				<li class="explore">
+					<h5>Explore 400,000+ Recipes</h5>
+					<ul>
+						<li><a href="http://www.food.com/recipe-finder/all?sd=08/11/2011" rev="Recipes"   rel="gh-t1-11">Newest Recipes</a></li>
+						<li><a href="http://www.food.com/photo-finder/all?Ns=photo_newest|1" rev="Recipes"   rel="gh-t1-12">Newest Photos</a></li>
+						<li><a href="http://www.food.com/recipes-popular" rev="Recipes"   rel="gh-t1-13">Top-Rated Recipes</a></li>
+						<li><a href="http://www.food.com/recipes/easy" rev="Recipes"   rel="gh-t1-14">Easy Recipes</a></li>
+					</ul>
+				</li>
+				<li class="personal">
+					<h5>Join Food.com</h5>
+					<ul>
+						<li>Rate &amp; Review Recipes</li>
+						<li>Save &amp; Share Your Own Recipes</li>
+						<li class="more">
+							<a class="signup" href="http://share.food.com/registration/register.esi" rev="Recipes"   rel="gh-t1-15">Join Food.com</a>|<a href="http://www.food.com/sitetour1.do">Take the Tour</a>
+						</li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+	</li>
+	<li class="nav_cookbook">
+		<h4><a href="http://www.food.com/books"  rel="gh-t2">Cookbooks</a></h4>
+		<div>
+			<span>Cookbooks Navigation</span>
+			<ul>
+				<li class="popular">
+					<h5>Popular Member Cookbooks</h5>
+					<ul>
+						<li><a href="http://www.food.com/cookbook-finder/all/copycat" rev="Cookbooks" rel="gh-t2-1">Restaurant Copycat Recipes</a></li>
+						<li><a href="http://www.food.com/cookbook-finder/Freezer/" rev="Cookbooks"    rel="gh-t2-2">Freezer Recipes</a></li>
+						<li><a href="http://www.food.com/cookbook/chicken-237142" rev="Cookbooks"    rel="gh-t2-3">Chicken Cookbook</a></li>
+						<li><a href="http://www.food.com/cookbook/400-Calorie-Meals-49870" rev="Cookbooks"   rel="gh-t2-4">400-Calorie Meals</a></li>
+						<li><a href="http://www.food.com/cookbook/main-dishes-healthy-fish-meals-87389" rev="Cookbooks" rel="gh-t2-5">Healthy Fish Meals</a></li>
+						<li><a href="http://www.food.com/cookbook-finder/all/weight-watchers" rev="Cookbooks"   rel="gh-t2-6">Weight Watchers Recipes</a></li>
+						<li><a href="http://www.food.com/cookbook/mexican-225637" rev="Cookbooks"   rel="gh-t2-7">Mexican Cookbook</a></li>
+						<li><a href="http://www.food.com/cookbook/crock-pot-42617" rev="Cookbooks"   rel="gh-t2-8">Crock-Pot Recipes</a></li>
+						<li><a href="http://www.food.com/cookbook/Rice-Cooker-Recipes-80457" rev="Cookbooks"   rel="gh-t2-9">Rice Cooker Recipes</a></li>
+						<li><a href="http://www.food.com/cookbook-finder/all/appetizers" rev="Cookbooks"   rel="gh-t2-10">Appetizer Cookbooks</a></li>
+					</ul>
+				</li>
+				<li class="explore">
+					<h5>Explore All Cookbooks</h5>
+					<ul>
+						<li><a href="http://www.food.com/cookbook-finder?Ns=main_submit_date|1" rev="Cookbooks" rel="gh-t2-11">Newest Cookbooks</a></li>
+						<li><a href="http://www.food.com/books/" rev="Cookbooks" rel="gh-t2-12">All Cookbooks</a></li>
+						<li><a href="http://www.food.com/cookbook-finder/all/healthy " rev="Cookbooks" rel="gh-t2-13">Healthy Cookbooks</a></li>
+						<li><a href="http://www.food.com/bb/viewtopic.zsp?t=139810" rev="Cookbooks" rel="gh-t2-14">Cookbook Help & FAQs</a></li>
+					</ul>
+				</li>
+				<li class="personal">
+					<h5>Join Food.com</h5>
+					<ul>
+						<li>Create Your Own Cookbooks</li>
+						<li>Organize Your Recipes</li>
+						<li class="more">
+							<a class="signup" href="http://share.food.com/registration/register.esi" rev="Cookbooks" rel="gh-t2-15">Join Food.com</a>|<a href="http://www.food.com/sitetour1.do">Take the Tour</a>
+						</li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+	</li>
+	<li class="nav_menus">
+		<h4><a href="http://www.food.com/menu" rel="gh-t3">Menus</a></h4>
+		<div>
+			<span>Menus Navigation</span>
+			<ul>
+				<li class="popular">
+					<h5>Popular Member Menus</h5>
+					<ul>
+						<li><a href="http://www.food.com/menu-finder/all/chicken-dinner" rev="Menus" rel="gh-t3-1">Chicken Dinners</a></li>
+						<li><a href="http://www.food.com/menu-finder/all/bbq" rev="Menus" rel="gh-t3-2">BBQ Menus</a></li>
+						<li><a href="http://www.food.com/menu-finder/all/gluten-free" rev="Menus" rel="gh-t3-3">Gluten-Free Menus</a></li>
+						<li><a href="http://www.food.com/menu-finder/all/dinner-party" rev="Menus" rel="gh-t3-4">Dinner Party</a></li>
+						<li><a href="http://www.food.com/menu-finder/all/easy" rev="Menus" rel="gh-t3-5">Easy Menus</a></li>
+						<li><a href="http://www.food.com/menu-finder/all/brunch?Ns=main_submit_date|1" rev="Menus" rel="gh-t3-6">Brunch Menus</a></li>
+						<li><a href="http://www.food.com/menu-finder/all/vegetarian" rev="Menus" rel="gh-t3-7">Vegetarian Menus</a></li>
+						<li><a href="http://www.food.com/menu-finder/all/mexican?Ns=has_photo|1||recipe_avg_rating|1||main_num_ratings|1||main_title_alternative|0" rev="Menus" rel="gh-t3-8">Mexican Menus</a></li>
+						<li><a href="http://www.food.com/menu-finder/all/Italian?Ns=has_photo|1||recipe_avg_rating|1||main_num_ratings|1||main_title_alternative|0 " rev="Menus" rel="gh-t3-9">Italian Menus</a></li>
+						<li><a href="http://www.food.com/menu-finder/all/summer " rev="Menus" rel="gh-t3-10">Summer Menus</a></li>
+					</ul>
+				</li>
+				<li class="explore">
+					<h5>Explore Members' Menus</h5>
+					<ul>
+						<li><a href="http://www.food.com/menu-finder?Ns=main_submit_date|1" rev="Menus" rel="gh-t3-11">Newest Menus</a></li>
+						<li><a href="http://www.food.com/menu" rev="Menus" rel="gh-t3-12">All Menus</a></li>
+						<li><a href="http://www.food.com/menu-finder/all/healthy " rev="Menus" rel="gh-t3-13">Healthy Menus</a></li>
+						<li><a href="http://www.food.com/bb/viewforum.zsp?f=7  " rev="Menus" rel="gh-t3-14">Menu Planning Forum</a></li>
+					</ul>
+				</li>
+				<li class="personal">
+					<h5>Join Food.com</h5>
+					<ul>
+						<li>Create Your Own Menus</li>
+						<li>Plan Weekly Meals</li>
+						<li class="more">
+							<a class="signup" href="http://share.food.com/registration/register.esi" rev="Menus" rel="gh-t3-15">Join Food.com</a>|<a href="http://www.food.com/sitetour1.do">Take the Tour</a>
+						</li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+	</li>
+	<li class="nav_community">
+		<h4><a href="http://www.food.com/communityforum.do"  rel="gh-t4">Community</a></h4>
+		<div>
+			<span>Community Navigation</span>
+			<ul>
+				<li class="popular">
+					<h5>Popular Forums</h5>
+					<ul>
+						<li><a href="http://www.food.com/bb/viewforum.zsp?f=56" rev="Community" rel="gh-t4-1">Topic of the Month</a></li>
+						<li><a href="http://www.food.com/bb/viewforum.zsp?f=24" rev="Community" rel="gh-t4-2">Canning & Preserving</a></li>
+						<li><a href="http://www.food.com/bb/viewforum.zsp?f=2" rev="Community" rel="gh-t4-3">Cooking Q&amp;A</a></li>
+						<li><a href="http://www.food.com/bb/viewforum.zsp?f=18" rev="Community" rel="gh-t4-4">Food Photos</a></li>
+						<li><a href="http://www.food.com/bb/viewforum.zsp?f=23" rev="Community" rel="gh-t4-5">Cooking on a Budget</a></li>
+						<li><a href="http://www.food.com/bb/viewforum.zsp?f=43" rev="Community" rel="gh-t4-6">Vegetarian &amp; Vegan</a></li>
+						<li><a href="http://www.food.com/bb/viewforum.zsp?f=37" rev="Community" rel="gh-t4-7">Mexican Cooking</a></li>
+						<li><a href="http://www.food.com/bb/viewforum.zsp?f=33" rev="Community" rel="gh-t4-8">Asian Cooking</a></li>
+						<li><a href="http://www.food.com/bb/viewforum.zsp?f=9" rev="Community" rel="gh-t4-9">Dieting</a></li>
+						<li><a href="http://www.food.com/bb/viewforum.zsp?f=12" rev="Community" rel="gh-t4-10">Contests & Events</a></li>
+					</ul>
+				</li>
+				<li class="explore">
+					<h5>Explore the Community</h5>
+					<ul>
+						<li><a href="http://www.food.com/bb/viewforum.zsp?f=16" rev="Community" rel="gh-t4-11">New Members Help</a></li>
+						<li><a href="http://www.food.com/browse/chefs/" rev="Community" rel="gh-t4-12">All Members A-Z </a></li>
+						<li><a href="http://www.food.com/bb/viewforum.zsp?f=4 " target="_top" rev="Community" rel="gh-t4-13">Customer Support</a></li>
+						<li><a href="http://www.food.com/bb/index.zsp" rev="Community" rel="gh-t4-14">All Forums</a></li>
+					</ul>
+				</li>
+				<li class="personal">
+					<h5>Join Food.com</h5>
+					<ul>
+						<li>Become a Chef</li>
+						<li>Share Your Recipes</li>
+						<li>Join the Discussions</li>
+						<li>Rate &amp; Review Recipes</li>
+						<li class="more">
+							<a class="signup" href="http://share.food.com/registration/register.esi" rev="Community" rel="gh-t4-15">Join Food.com</a>|<a href="http://www.food.com/sitetour1.do">Take the Tour</a>
+						</li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+	</li>
+	<li class="shop">
+		<h4><a target="_blank" href="http://www.cooking.com/aff/adredir.asp?CCAID=CBFOPTPH1&Redir=%2Ffoodcom" rel="gh-t5">Shop</a></h4>
+		<div>
+			<span>Shopping Navigation</span>
+			<ul>
+				<li class="popular">
+					<h5>Popular Products</h5>
+					<ul>
+						<li><a target="_blank" href="http://www.cooking.com/aff/adredir.asp?CCAID=CBFOPTSF1COOK&Redir=%2Fproducts%2Fcookware%2Easp" rev="Shop" rel="gh-t5-1">Cookware</a></li>
+						<li><a target="_blank" href="http://www.cooking.com/aff/adredir.asp?CCAID=CBFOPTSF1BAKE&Redir=%2Fproducts%2Fbakeware%2Easp" rev="Shop" rel="gh-t5-2">Bakeware</a></li>
+						<li><a target="_blank" href="http://www.cooking.com/aff/adredir.asp?CCAID=CBFOPTSF1CUTL&Redir=%2Fproducts%2Fcutlery%2Easp" rev="Shop" rel="gh-t5-3">Cutlery</a></li>
+						<li><a target="_blank" href="http://www.cooking.com/aff/adredir.asp?CCAID=CBFOPTSF1SMAP&Redir=%2Fproducts%2Fsmallapps%2Easp" rev="Shop" rel="gh-t5-4">Small Appliances</a></li>
+						<li><a target="_blank" href="http://www.cooking.com/aff/adredir.asp?CCAID=CBFOPTSF1TOOL&Redir=%2Fproducts%2Fcookstools%2Easp" rev="Shop" rel="gh-t5-5">Cooking Tools</a></li>
+						<li><a target="_blank" href="http://www.cooking.com/aff/adredir.asp?CCAID=CBFOPTSF1BOOK&Redir=%2Fproducts%2FCookbooks%2Ehtm" rev="Shop" rel="gh-t5-6">Cookbooks</a></li>
+						<li class="more"><a target="_blank" href="http://www.cooking.com/aff/adredir.asp?CCAID=CBFOPTPH1&Redir=%2Ffoodcom" rev="Shop" rel="gh-t5-7">Shop All Categories</a></li>
+					</ul>
+				</li>
+				<li class="popular">
+					<h5>Popular Brands</h5>
+					<ul>
+						<li><a target="_blank" href="http://www.cooking.com/aff/adredir.asp?CCAID=CBFOPTSF2CALP&Redir=%2Fproducts%2Fbrand%2Easp%3Fk%3Dcalphalon" rev="Shop" rel="gh-t5-8">Calphalon</a></li>
+						<li><a target="_blank" href="http://www.cooking.com/aff/adredir.asp?CCAID=CBFOPTSF2KITC&Redir=%2Fproducts%2Fbrand%2Easp%3Fk%3Dkitchenaid" rev="Shop" rel="gh-t5-9">KitchenAid</a></li>
+						<li><a target="_blank" href="http://www.cooking.com/aff/adredir.asp?CCAID=CBFOPTSF2CUIS&Redir=%2Fproducts%2Fbrand%2Easp%3Fk%3Dcuisinart" rev="Shop" rel="gh-t5-10">Cuisinart</a></li>
+						<li><a target="_blank" href="http://www.cooking.com/aff/adredir.asp?CCAID=CBFOPTSF2LCRE&Redir=%2Fproducts%2Fbrand%2Easp%3Fk%3Dle%2Bcreuset" rev="Shop" rel="gh-t5-11">Le Creuset</a></li>
+						<li class="more"><a target="_blank" href="http://www.cooking.com/aff/adredir.asp?CCAID=CBFOPTSF2BRND&Redir=%2Fproducts%2Fshbrands%2Easp" rev="Shop" rel="gh-t5-12">Shop All Brands</a></li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+	</li>
+	<li id="nav-sifter"><a href="#">Recipe Sifter</a></li>
+</ul>
+	
+
+<ul id="NavSignedIn" class="headernav">
+	<li id="nav_recipes">
+		<h4><a href="http://www.food.com/recipes" rel="gh-t1-li">Recipes</a></h4>
+		<div class="flyout">
+			<span>Recipes Navigation</span>
+			<ul>
+				<li class="personal">
+					<h5>My Recipes</h5>
+					<ul class="listing">
+						<li id="recipes_totalRecipes"><a href="http://www.food.com/recipes.php?chef=" rev="Recipes" rel="gh-t1-1-li">My Public Recipes <span>99</span></a></li>
+						<li id="recipes_totalPrivateRecipes"><a href="http://www.food.com/members/myprivate.php" rev="Recipes" rel="gh-t1-2-li">My Private Recipes <span>99</span></a></li>
+						<li id="recipes_totalReviews"><a href="http://share.food.com/community/reviews.esi?member_id=" rev="Recipes" rel="gh-t1-3-li">My Reviews <span>99</span></a></li>
+						<li id="recipes_totalNotesCount"><a href="http://www.food.com/recipe/mynotes" rev="Recipes" rel="gh-t1-4-li">My Private Notes <span>99</span></a></li>
+						<li id="recipes_totalPictures"><a href="http://share.food.com/community/portfolio.esi?member_id=" rev="Recipes" rel="gh-t1-5-li">My Photos <span>99</span></a></li>
+						<li id="recipes_ShoppingList"><a href="http://www.food.com/myshopcart/" rev="Recipes" rel="gh-t1-6-li">My Shopping List <span>99</span></a></li>
+						<li class="action">I Want To&hellip;<a href="http://www.food.com/members/subm/editr2" rev="Recipes" rel="gh-t1-7-li">Submit a Recipe</a></li>
+					</ul>
+				</li>
+				<li class="popular">					
+					<h5>Popular Recipes</h5>
+					<ul>
+						<li><a href="http://www.food.com/summer-grilling/home/package" rev="Recipes" rel="gh-t1-8-li">Grilling Recipes</a></li>
+						<li><a href="http://www.food.com/recipes/appetizers" rev="Recipes" rel="gh-t1-9-li">Appetizer Recipes</a></li>
+						<li><a href="http://dessert.food.com" rev="Recipes" rel="gh-t1-11-li">Dessert Recipes</a></li>
+						<li><a href="http://www.food.com/recipes/chicken" rev="Recipes" rel="gh-t1-12-li">Chicken Recipes</a></li>
+						<li><a href="http://www.food.com/recipes/low-fat" rev="Recipes" rel="gh-t1-13-li">Low-Fat Recipes</a></li>
+					</ul>
+				</li>
+				<li class="explore">
+					<h5>Explore 400,000+ Recipes</h5>
+					<ul>
+						<li><a href="http://www.food.com/recipe-finder/all?sd=08/11/2011" rev="Recipes" rel="gh-t1-14-li">Newest Recipes</a></li>
+						<li><a href="http://www.food.com/photo-finder/all?Ns=photo_newest|1 " rev="Recipes" rel="gh-t1-15-li">Newest Photos</a></li>
+						<li><a href="http://www.food.com/recipes-popular" rev="Recipes" rel="gh-t1-16-li">Top-Rated Recipes</a></li>
+						<li><a href="http://www.food.com/recipes/easy"rev="Recipes" rel="gh-t1-17-li">Easy Recipes</a></li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+	</li>
+	<li id="nav_cookbook">
+		<h4><a href="http://www.food.com/books" rel="gh-t2-li">Cookbooks</a></h4>
+		<div class="flyout">
+			<span>Cookbooks Navigation</span>
+			<ul>
+				<li class="personal">
+					<h5>My Cookbooks</h5>
+					<p class="main"><a href="http://www.food.com/cookbook.php?bookid=1" rev="Cookbooks" rel="gh-t2-1-li">My Main Cookbook</a></p>
+					<p id="cookbooks_totalPublicCookbook" class="all"><a href="http://www.food.com/mycookbook/" rev="Cookbooks" rel="gh-t2-2-li">All of My Cookbooks <span>99</span></a></p>
+				</li>
+				<li class="popular">					
+					<h5>Popular Cookbooks</h5>
+					<ul>
+						<li><a href="http://www.food.com/cookbook-finder/all/copycat" rev="Cookbooks" rel="gh-t2-3-li">Restaurant Copycat Recipes</a></li>
+						<li><a href="http://www.food.com/cookbook-finder/all/weight-watchers" rev="Cookbooks" rel="gh-t2-4-li">Weight Watchers Recipes</a></li>
+						<li><a href="http://www.food.com/cookbook/crock-pot-183975" rev="Cookbooks" rel="gh-t2-5-li">Crock Pot Cookbook</a></li>
+						<li><a href="http://www.food.com/cookbook/pasta-126092" rev="Cookbooks" rel="gh-t2-6-li">Pasta Recipes</a></li>
+					</ul>
+				</li>
+				<li class="explore">
+					<h5>Explore All Cookbooks</h5>
+					<ul>
+						<li><a href="http://www.food.com/cookbook-finder?Ns=main_submit_date|1" rev="Cookbooks" rel="gh-t2-7-li">Newest Cookbooks</a></li>
+						<li><a href="http://www.food.com/books/" rev="Cookbooks" rel="gh-t2-8-li">All Cookbooks</a></li>
+						<li><a href="http://www.food.com/cookbook-finder/all/healthy" rev="Cookbooks" rel="gh-t2-9-li">Healthy Cookbooks</a></li>
+						<li><a href="http://www.food.com/bb/viewtopic.zsp?t=139810" rev="Cookbooks" rel="gh-t2-10-li">Cookbooks Help</a></li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+	</li>
+	<li id="nav_menus">
+		<h4><a href="http://www.food.com/menu" rel="gh-t3-li">Menus</a></h4>
+		<div class="flyout">
+			<span>Menus Navigation</span>
+			<ul>
+				<li class="personal">
+					<h5>My Menus</h5>
+					<p id="menus_totalPublicMenus" class="all"><a href="http://www.food.com/menu/mymenus.php" rev="Menus" rel="gh-t3-1-li">All of My Menus <span>99</span></a></p>
+				</li>
+				<li class="popular">					
+					<h5>Popular Menus</h5>
+					<ul>
+						<li><a href="http://www.food.com/menu-finder/all/chicken-dinner" rev="Menus" rel="gh-t3-2-li">Chicken Dinners</a></li>
+						<li><a href="http://www.food.com/menu-finder/all/party" rev="Menus" rel="gh-t3-3-li">Party Menus</a></li>
+						<li><a href="http://www.food.com/menu-finder/all/bbq" rev="Menus" rel="gh-t3-4-li">BBQ Menus</a></li>
+						<li><a href="http://www.food.com/menu-finder/all/vegetarian" rev="Menus" rel="gh-t3-5-li">Vegetarian Menus</a></li>
+					</ul>
+				</li>
+				<li class="explore">
+					<h5>Explore Members' Menus</h5>
+					<ul>
+						<li><a href="http://www.food.com/menu-finder?Ns=main_submit_date|1" rev="Menus" rel="gh-t3-6-li">Newest Menus</a></li>
+						<li><a href="http://www.food.com/menu/" rev="Menus" rel="gh-t3-7-li">All Menus</a></li>
+						<li><a href="http://www.food.com/menu-finder/all/healthy" rev="Menus" rel="gh-t3-8-li">Healthy Menus</a></li>
+						<li><a href="http://www.food.com/bb/viewforum.zsp?f=7" rev="Menus" rel="gh-t3-9-li">Menu Planning Forum</a></li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+	</li>
+	<li id="nav_community">
+		<h4><a href="http://www.food.com/communityforum.do" rel="gh-t4-li">Community</a></h4>
+		<div class="flyout">
+			<span>Community Navigation</span>
+			<ul>
+				<li class="personal">
+					<h5>My Community</h5>
+					<ul class="listing">
+						<li><a href="http://www.food.com/bb/index.zsp" rev="Community" rel="gh-t4-1-li">All Community Forums</a></li>
+						<li id="community_favoriteTopics"><a href="http://www.food.com/bb/mytopics.zsp" rev="Community" rel="gh-t4-2-li">My Favorite Topics <span>99</span></a></li>
+						<li id="community_favoriteChefs"><a href="http://share.food.com/community/favorites.esi" rev="Community" rel="gh-t4-3-li">Chefs I Like <span>99</span></a></li>
+					</ul>
+					<h5>More</h5>
+					<ul>
+						<li><a href="http://share.food.com/community/style.esi" rev="Community" rel="gh-t4-4-li">My Profile</a></li>
+						<li><a href="http://share.food.com/community/usersettings.esi" rev="Community" rel="gh-t4-5-li">My Settings</a></li>
+						<li><a href="http://www.food.com/mail" rev="Community" rel="gh-t4-6-li">My Inbox</a></li>
+					</ul>
+				</li>
+				<li class="popular">					
+					<h5>Popular Forums</h5>
+					<ul>
+						<li><a href="http://www.food.com/bb/viewforum.zsp?f=56" rev="Community" rel="gh-t4-7-li">Topic of the Month</a></li>
+						<li><a href="http://www.food.com/bb/viewforum.zsp?f=9"  rev="Community" rel="gh-t4-8-li">Special Diets</a></li>
+						<li><a href="http://www.food.com/bb/viewforum.zsp?f=18" rev="Community" rel="gh-t4-9-li">Food Photos</a></li>
+						<li><a href="http://www.food.com/bb/viewforum.zsp?f=12" rev="Community" rel="gh-t4-10-li">Contests &amp; Events</a></li>
+						<li><a href="http://www.food.com/bb/viewforum.zsp?f=2"  rev="Community" rel="gh-t4-11-li">Cooking Q&amp;A</a></li>
+					</ul>
+				</li>
+				<li class="explore">
+					<h5>Explore the Community</h5>
+					<ul>
+						<li><a href="http://www.food.com/bb/viewforum.zsp?f=16" rev="Community" rel="gh-t4-12-li">New Members Help</a></li>
+						<li><a href="http://www.food.com/browse/chefs/" rev="Community" rel="gh-t4-13-li">All Members A-Z</a></li>
+						<li><a href="http://www.food.com/bb/viewforum.zsp?f=4" rev="Community" rel="gh-t4-14-li">Customer Support</a></li>
+						<li><a href="http://www.food.com/bb/index.zsp" rev="Community" rel="gh-t4-15-li">All Forums</a></li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+	</li>
+	<li class="shop">
+		<h4><a target="_blank" href="http://www.cooking.com/aff/adredir.asp?CCAID=CBFOPTPH1&Redir=%2Ffoodcom" rel="gh-t5-li">Shop</a></h4>
+		<div class="flyout">
+			<span>Shopping Navigation</span>
+			<ul>
+				<li class="popular">					
+					<h5>Popular Products</h5>
+					<ul>
+						<li><a target="_blank" href="http://www.cooking.com/aff/adredir.asp?CCAID=CBFOPTSF1COOK&Redir=%2Fproducts%2Fcookware%2Easp" rev="Shop" rel="gh-t5-1-li">Cookware</a></li>
+						<li><a target="_blank" href="http://www.cooking.com/aff/adredir.asp?CCAID=CBFOPTSF1BAKE&Redir=%2Fproducts%2Fbakeware%2Easp" rev="Shop" rel="gh-t5-2-li">Bakeware</a></li>
+						<li><a target="_blank" href="http://www.cooking.com/aff/adredir.asp?CCAID=CBFOPTSF1CUTL&Redir=%2Fproducts%2Fcutlery%2Easp" rev="Shop" rel="gh-t5-3-li">Cutlery</a></li>
+						<li><a target="_blank" href="http://www.cooking.com/aff/adredir.asp?CCAID=CBFOPTSF1SMAP&Redir=%2Fproducts%2Fsmallapps%2Easp" rev="Shop" rel="gh-t5-4-li">Small Appliances</a></li>
+						<li><a target="_blank" href="http://www.cooking.com/aff/adredir.asp?CCAID=CBFOPTSF1TOOL&Redir=%2Fproducts%2Fcookstools%2Easp" rev="Shop" rel="gh-t5-5-li">Cooking Tools</a></li>
+						<li><a target="_blank" href="http://www.cooking.com/aff/adredir.asp?CCAID=CBFOPTSF1BOOK&Redir=%2Fproducts%2FCookbooks%2Ehtm" rev="Shop" rel="gh-t5-6-li">Cookbooks</a></li>
+						<li class="more"><a target="_blank" href="http://www.cooking.com/aff/adredir.asp?CCAID=CBFOPTPH1&Redir=%2Ffoodcom" rev="Shop" rel="gh-t5-7-li">Shop All Categories</a></li>
+					</ul>
+				</li>
+				<li class="popular">
+					<h5>Popular Brands</h5>
+					<ul>
+						<li><a target="_blank" href="http://www.cooking.com/aff/adredir.asp?CCAID=CBFOPTSF2CALP&Redir=%2Fproducts%2Fbrand%2Easp%3Fk%3Dcalphalon" rev="Shop" rel="gh-t5-8-li">Calphalon</a></li>
+						<li><a target="_blank" href="http://www.cooking.com/aff/adredir.asp?CCAID=CBFOPTSF2KITC&Redir=%2Fproducts%2Fbrand%2Easp%3Fk%3Dkitchenaid" rev="Shop" rel="gh-t5-9-li">KitchenAid</a></li>
+						<li><a target="_blank" href="http://www.cooking.com/aff/adredir.asp?CCAID=CBFOPTSF2CUIS&Redir=%2Fproducts%2Fbrand%2Easp%3Fk%3Dcuisinart" rev="Shop" rel="gh-t5-10-li">Cuisinart</a></li>
+						<li><a target="_blank" href="http://www.cooking.com/aff/adredir.asp?CCAID=CBFOPTSF2LCRE&Redir=%2Fproducts%2Fbrand%2Easp%3Fk%3Dle%2Bcreuset" rev="Shop" rel="gh-t5-11-li">Le Creuset</a></li>
+						<li class="more"><a target="_blank" href="http://www.cooking.com/aff/adredir.asp?CCAID=CBFOPTSF2BRND&Redir=%2Fproducts%2Fshbrands%2Easp" rev="Shop" rel="gh-t5-12-li">Shop All Brands</a></li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+	</li>
+	<li id="nav-sifter"><a href="#">Recipe Sifter</a></li>
+</ul>
+			<div id="rz-sifter" class="no-btm-brdr"> 
+			<div id="rz-sifter-wrap">
+				<div class="rz-w">
+					<ul id="the-sifter">
+						<li id="start-here" class="sifter">
+							<h6>Start Here</h6>
+							<ul class="sift_options default">
+								<li class="root" id="course" label="course"><strong>Course</strong><span><!-- --></span></li>
+								<li class="root" id="mainingredient" label="main ingredient"><strong>Main Ingredient</strong><span><!-- --></span></li>
+								<li class="root" id="cuisine" label="cuisine"><strong>Cuisine</strong> <span><!-- --></span></li>
+								<li class="root" id="preparation" label="preparation" ><strong>Preparation</strong> <span><!-- --></span></li>
+								<li class="root" id="occasion" label="occasion"><strong>Occasion</strong> <span><!-- --></span></li>
+								<li class="root" id="dietary" label="dietary"><strong>Diet</strong> <span><!-- --></span></li>
+								<li class="root" id="ingredient_search" label="Filter by Ingredient"><strong>Filter by Ingredient</strong> <span><!-- --></span></li>
+								<li class="root" id="nutrition" label="nutrition"><strong>Nutrition</strong> <span><!-- --></span></li>
+							</ul>
+						</li>
+					</ul>			
+					
+					<div id="sifter-start-here" class="sifter-getting-started">
+						<span class="pointer"></span>
+						<strong>1</strong>
+						<p>Select (<span class="check_sym"></span>) or exclude (<span class="exclude_sym"></span>) categories to narrow your recipe search.</p>
+					</div>
+					
+					<div id="sifter-check-here" class="sifter-getting-started">
+						<span class="pointer"></span>
+						<strong>2</strong>
+						<p>As you select categories, the number of matching recipes will update.</p>
+					</div>
+					
+				</div>	
+				<div class="rz-e">
+					<div id="sifter-results">
+						<div id="sifter-results-inner">
+							<h5 id="sifter-selections-hd"><strong>Make some selections to begin narrowing your results.</strong></h5>
+							<div id="sifter-selections">
+								<ul>
+									
+								</ul>
+							</div>
+							<div id="sifter-total"><a href="#" rel="header" class="">GET&nbsp;<em> </em>&nbsp;recipes</a></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+
+<div id="hidden-sifter-content">
+	
+	<div id="hidden_ingredient_search">
+		<div id="ing_search_wrap">
+			<form id="ing_search">
+				<div id="ing_search_field"><input type="text" id="search" /></div>
+				<button id="ingredient_search_button"> </button>
+			</form>
+		</div>		
+	</div>	
+
+
+	<div id="hidden_nutrition" >
+		<li id="cal" class="nutrition"><strong>Calories</strong> <span></span></li>
+		<li class="no_action"><em>Amount per serving</em>	
+			<ol>
+				<li id="totfat" class="nutrition"><strong>Total Fat</strong> <span></span></li>
+				<li id="fatsat" class="nutrition"><strong>Saturated Fat</strong> <span> </span> </li>
+				<li id="fatpunsat" class="nutrition"><strong>Polyunsat. Fat</strong> <span></span> </li>
+				<li id="fatmunsat" class="nutrition"><strong>Monounsat. Fat</strong> <span></span></li>
+				<li id="fattrans" class="nutrition"><strong>Trans Fat</strong><span></span></li>
+			</ol>
+		</li>
+		<li id="chol" class="nutrition"><strong>Cholesterol</strong><span></span></li>
+		<li id="sod" class="nutrition"><strong>Sodium</strong><span></span></li>
+		<li id="pot" class="nutrition"><strong>Potassium</strong><span></span></li>
+		<li id="total_carbohydrates" class="no_action"><em>Total Carbohydrates</em>
+			<ol>
+				<li id="dfib" class="nutrition"><strong>Dietary Fiber</strong><span></span></li>
+				<li id="sug" class="nutrition"><strong>Sugars</strong><span></span></li>
+			</ol>
+		</li>
+		<li id="protein" class="nutrition"><strong>Protein</strong> <span></span></li>
+		<li id="vita" class="nutrition"><strong>Vitamin A</strong> <span></span></li>
+		<li id="vitb6" class="nutrition"><strong>Vitamin B6</strong> <span></span></li>
+		<li id="vitb12" class="nutrition"><strong>Vitamin B12</strong> <span></span></li>
+		<li id="vitc" class="nutrition"><strong>Vitamin C</strong> <span></span></li>
+		<li id="calcium" class="nutrition"><strong>Calcium</strong> <span></span></li>
+		<li id="iron" class="nutrition"><strong>Iron</strong> <span></span></li>
+		<li id="vite" class="nutrition"><strong>Vitamin E</strong> <span></span></li>
+		<li id="mag" class="nutrition"><strong>Magnesium</strong> <span></span></li>
+		<li id="alc" class="nutrition"><strong>Alcohol</strong> <span></span></li>
+		<li id="caff" class="nutrition"><strong>Caffeine</strong> <span></span></li>	
+	</div>	
+</div>
+
+<div id="rz-sifter-tooltip"> 
+	<div class="bd">
+		<p>Find exactly what you're looking for with the web's most powerful recipe filtering tool.</p> 
+	</div> 
+</div>
+	
+
+
+<script type="text/javascript" charset="utf-8">
+	if (typeof userInfo != "undefined") {
+		SNI.Community.UR.ViewingUserDisplayName = userInfo.userDisplayName;
+		SNI.Community.UR.ViewingUserName = userInfo.userName;
+		SNI.Community.UR.ViewingUserPostalCode = userInfo.postalCode;
+		SNI.Community.UR.ViewingUserState = userInfo.state;
+		SNI.Community.UR.ViewingUserCountry = userInfo.country;
+		SNI.Community.UR.ViewingMemberId = userInfo.memberId;
+		SNI.Community.UR.logged_in=true;
+	}
+</script>
+
+</div>
+<script type="text/javascript" charset="utf-8">handleHeaderLoad();</script>
+
+
+
+<input type="hidden" id="globalAssetId" value="284057"></input>
+<input type="hidden" id="globalAssetType" value="1"></input>
+<div id="site-wrapper">
+	
+
+
+
+<div id="rz-bc" class="clrfix"> 
+	
+
+<div id="rz-breadcrumb">You are in: 
+
+	<a href="http://www.food.com">Home</a> /  
+
+	<a href="http://www.food.com/recipes/">Recipes</a> /  
+
+	Sausage and Pepperoni Cheese Stuffed Calzone Recipe
+	   
+
+</div>
+	<div id="rz-sitemap">Lost? <a href="http://www.food.com/sitemap.do">Site Map</a></div>
+</div>	
+	<div id="rz-bd" class="hrecipe clrfix recipe-detail-page">
+		<div id="rz-lead"  class="recipe-info-page clrfix">
+				<div class="leady-hd rz-rec clrfix">
+					
+
+
+					<span class="item">
+						<h1 class="fn">Sausage and Pepperoni Cheese Stuffed Calzone</h1>
+					</span>
+					<div class="recipe-user">
+						<a href="http://share.food.com/community/Super-San-Mateo-Chefs/style.esi?member_id=401036"><img src="http://picklemedia1.scrippsnetworks.com/pickle_media1/media/rz_migration/40/Photo_Video_401036_square.jpg" alt="" width="48" height="48" /></a>
+
+						<div class="user-info clrfix">
+
+							<div class="usernameflyout clrfix">
+								<p class="un">
+										By
+									<span class="author vcard">
+										<a class="url fn" href="http://share.food.com/community/Super-San-Mateo-Chefs/style.esi?member_id=401036">Super San Mateo Chefs</a>
+									</span>
+								</p>
+								<dl id="userflyoutLead1" class="fsm custom-dd">
+								
+
+
+
+
+
+<dt class="user-click"><a><span></span></a></dt>
+<dd class="flyout fly-dd" id="userFlyout">
+	<div class="fly-hd"></div>
+	<div class="fly-bd">
+		<a class="close"></a>
+		<h3>Select One</h3>
+		<ul class="fly-ul">
+			<li class="fly-li"><a href="http://www.food.com/mail/compose?to=401036" class="contact_this_chef">Contact This Chef</a></li>
+			<li class="fly-li"><a href="http://share.food.com/community/Super-San-Mateo-Chefs/style.esi?member_id=401036">Chef's Page</a></li>
+			<li class="fly-li"><a href="http://www.food.com/recipes.php?chef=401036">Chef's Recipes</a></li>
+			<li class="fly-li"><a href="http://share.food.com/community/Super-San-Mateo-Chefs/portfolio.esi?member_id=401036">Chef's Photos</a></li>
+			<li class="fly-li"><a href="http://share.food.com/community/Super-San-Mateo-Chefs/reviews.esi?member_id=401036">Chef's Reviews</a></li>
+			<li class="fly-li"><a href="http://www.food.com/cookbooks.php?mid=401036">Chef's Cookbooks</a></li>
+			<li class="fly-li"><a href="http://www.food.com/menus.php?owner=401036">Chef's Menus</a></li>
+			<li class="fly-li"><a href="javascript:void(0);" class="add_chef_to_favorites" id="favorite_chef_401036">Add to Favorites </a></li>
+		</ul>
+	</div>
+	<div class="fly-ft"></div>
+</dd>
+
+								</dl>
+							</div>
+
+							<div class="addedwhen clrfix">
+								<p>Added February 03, 2008 | Recipe #284057</p>
+							</div>
+
+							<div>
+								<p class="recipe-cats">
+									Categories:
+									
+									<a href="http://www.food.com/recipes/pizza">Pizza</a>
+									
+									<a href="http://www.food.com/recipes/main-dish">Main dish</a>
+									
+									<a href="http://Italian.food.com/">Italian</a>
+									
+								</p>
+								
+								<div class="recipeMoreLink rzMoreTrigger">
+									<a href="#" class="more">More<em></em></a>
+									<div class="more-tags" style="top: 10px; left: 0px; display: none;">
+										<div class="hd"></div>
+										<div class="bd">
+											<ul id="recipe-filedin">
+											
+												<li><a href="http://www.food.com/recipes/european">European</a></li>
+											
+												<li><a href="http://www.food.com/recipes/dinner-party">Dinner party</a></li>
+											
+												<li><a href="http://www.food.com/recipes/30-minutes-or-less">< 30 mins</a></li>
+											
+												<li><a href="http://www.food.com/recipes/time-to-make">Time to make</a></li>
+											
+											</ul>
+										</div>
+										<div class="ft"></div>
+									</div>
+								</div>
+								
+								<script type="text/javascript" charset="utf-8">
+									SNI.RZ.Recipe.Intro.init();
+								</script>
+							</div>
+						</div>
+					</div>
+					
+
+
+
+
+<ul class="menu button-nav">
+<li>
+	<a href="http://www.food.com/recipe/sausage-and-pepperoni-cheese-stuffed-calzone-284057" class="selected"  ><span>Recipe</span></a>
+</li>
+
+<li>
+	<a href="http://www.food.com/recipe/sausage-and-pepperoni-cheese-stuffed-calzone-284057/review" ><span>Ratings &amp; Reviews<em>(4)</em></span></a>
+</li>
+
+<li>
+	<a href="http://www.food.com/recipe/sausage-and-pepperoni-cheese-stuffed-calzone-284057/photo"  ><span>Photos<em>(1)</em></span></a>
+</li>
+</ul>
+
+					
+		<div class="pod sponsor" id="sponsor_ad_div_id" style="display:none;">
+			<small>Sponsored by:</small><em></em>
+			<script type="text/javascript">try{MultiLogoAd('LOGO',1);}catch(e){}</script>
+		</div>
+		<script type="text/javascript">
+		if( document.getElementById('sponsor_ad_div_id').innerHTML.indexOf("1x1.gif")==-1 && (document.getElementById('sponsor_ad_div_id').innerHTML.indexOf("img")!=-1 || document.getElementById('sponsor_ad_div_id').innerHTML.indexOf("IMG")!=-1 ) )
+		{
+			document.getElementById('sponsor_ad_div_id').style.display ="block";
+		}
+		</script>
+					<script type="text/javascript">
+						SNI.RZ.Recipe.notesConfig = {
+							recipeId: "284057",
+							privateNotesId: "0",
+							noteMemberId: "0"
+						};
+					</script>
+			</div>
+		</div> <!-- /#rz-lead -->
+		<div id="rz-main">
+			<div id="rz-w">
+				
+			<div class="pod recipe-item clrfix">
+				<div class="rz-w">
+					<!--
+					NOTE TO DEV TEAM!
+					To match formatting of different image sizes - the image height and width need to be added as inline CSS on the following DIV
+					//-->
+					
+					<div class="bd">
+						<script>
+                            SNI.RZ.Recipe.ImageResize.init();
+						</script>
+						<div class="close closeExpanded"></div>
+						<div id="enlrphoto" class="imgCont">
+							<div class="imgfloater enlarge" style="position:relative;">
+								<div class="open"></div>
+								<img class="largePageImage" src="http://food.sndimg.com/img/recipes/28/40/57/large/picU5ihgd.jpg" title="Sausage and Pepperoni Cheese Stuffed Calzone. Photo by Super San Mateo Chefs" alt="Sausage and Pepperoni Cheese Stuffed Calzone. Photo by Super San Mateo Chefs">
+                <img class="smallPageImage" src="http://food.sndimg.com/img/recipes/28/40/57/large/picU5ihgd.jpg" title="Sausage and Pepperoni Cheese Stuffed Calzone. Photo by Super San Mateo Chefs" alt="Sausage and Pepperoni Cheese Stuffed Calzone. Photo by Super San Mateo Chefs">
+								<div class="photolink"><p>Photo by <a href="" onclick="">Super San Mateo Chefs</a></p></div>
+							</div>
+						</div>
+					</div>
+					<div class="ft clrfix">
+            
+            <p><a href="http://www.food.com/recipe/sausage-and-pepperoni-cheese-stuffed-calzone-284057/photo">1 Photo</a> of Sausage and Pepperoni Cheese Stuffed Calzone</p>
+						<a class="small-button" href="http://www.food.com/recipe/sausage-and-pepperoni-cheese-stuffed-calzone-284057/photo"><span><em class="label"></em><em>See All Photos</em></span></a>
+					</div>
+					
+				</div>
+				<div class="rz-e">
+					
+					<div class="rz-hd clrfix">
+						<span class="review hreview-aggregate">
+							<span class="rating">
+								<span class="average">
+									<span class="value-title" title="5.0" > </span>
+								</span>
+								<span class="count">
+									<span class="value-title" title="4"></span>
+								</span>
+							</span>
+						</span>
+						<span class="inline-rating">
+							<ul class="star-rating">
+								<li class="current-rating" style="width: 100.00%;"></li>
+							</ul>
+						</span>
+						
+						<p class="rating-txt"><span><span id="rz-rate-it"><a id="ratid" href="http://www.food.com/recipe/sausage-and-pepperoni-cheese-stuffed-calzone-284057/review#rz-w" rel="rateit">Rate it!</a></span> | <a href="http://www.food.com/recipe/sausage-and-pepperoni-cheese-stuffed-calzone-284057/review" id="readthereview" rel="redrvl">Read 4 Reviews</a></span></p>
+					</div>
+					
+					<div class="cookTime clrfix">
+						<div class="ct-w">
+							<h3>Total Time:</h3>
+							<p>Prep Time:</p>
+							<p>Cook Time:</p>
+						</div>
+						<div class="ct-e">
+							<h3>20 mins</h3>
+							<p>5 mins</p>
+							<p>15 mins</p>
+						</div>
+					</div>
+					<script type="text/javascript">
+                        $(document).ready(function() {
+                        	   var fullAddPrivateTxt 	= $("#textnoteformore").text();
+                        	   var fullUserNoteTxt 		= $("#usertextnote").text();
+                        	  	$('.morelinkfornote').live('hover', function() {
+                        			$('.textnotemore').html(fullAddPrivateTxt);
+                        		});
+                        		$('.morelinkforusernote').live('hover', function() {
+                        			$('.userclsnote').html(fullUserNoteTxt);
+                        		});
+                        		$('.my-pn').mouseleave(function(){
+                        			resizeAddPrivateNote();
+                        	   });
+                        	   $('.userNoteCont').mouseleave(function(){
+                        			resizeUserNote();
+                  	   		    });
+                 	   		    
+                        	   $('.noteDel').click(function() {
+                       			$('.MyDeleteNote').attr('style', 'display:block');
+                       		   });
+
+                        	   $('.pnote-cancel').click(function() {
+                          			$('.MyDeleteNote').attr('style', 'display:none');
+                          	    });
+
+                        	   function resizeAddPrivateNote() {
+                        	        var fullTxtLength = fullAddPrivateTxt.length;
+                        	        if(fullTxtLength >= 250){
+                        			var $shortMessage = fullAddPrivateTxt.substr(0,250)+ ' ...';
+                        			$('.textnotemore').html($shortMessage);
+                        			$('.textnotemore').append('<div class="morelinkfornote"><a href="javascript:void(0);">More</a></div>');
+                        			}
+                        	   }
+
+                        	   function resizeUserNote() {
+                       	        var fullTxtLength = fullUserNoteTxt.length;
+                       	        if(fullTxtLength >= 250){
+                       				var $shortMessage = fullUserNoteTxt.substr(0,250)+ ' ...';
+                       				$('.morelinkforusernote').remove();
+                       				$('.userclsnote').html( $shortMessage);
+                       				$('.userclsnote').append('<div class="morelinkforusernote"><a href="javascript:void(0);">More</a></div>');
+                       				}
+                       	     	}
+                      	     	
+                        		resizeAddPrivateNote();
+                        		resizeUserNote();
+                        	  });
+                        function removeNotes()
+						{
+                        	var request=document.all?new ActiveXObject("Microsoft.XMLHTTP"):new XMLHttpRequest();
+							var url="/dpn.do?pid=0&mid=0&rid=284057";
+							request.onreadystatechange=function()
+							{
+								if(request.readyState==4)
+								{
+									if(request.status==200)
+									{
+										document.location = document.location+"";
+									}
+								}
+							}
+							request.open("GET", url,true);
+							request.send(null);
+						}
+					</script>
+					
+					<div class="userNoteCont clrfix">
+						<div class="userNote clrfix">
+							<em></em>
+							<h4><a href="http://share.food.com/community/Super-San-Mateo-Chefs/style.esi?member_id=401036">Super San Mateo Chefs</a>'s Note:</h4>
+							<p class="userclsnote" id="usertextnote">
+								This is a great, tasty big calzone!  I used one can of Pillsbury pizza dough (about 13.5 ounces) which is a great way to make this calzone quickly.  I made one large calzone which was divided to serve two people.
+							</p>
+							<div class="end-quote"></div>
+						</div>
+					</div>
+					
+				</div>
+			</div>
+			<div class="pod add-this-recipe-to">
+					<div class="rz-bd first">
+						<h5>RECIPE TOOLS</h5>
+						<ul class="top clrfix">
+							<li id="print-recipe"><a id="prntrec" target="_new" class="pr" href="http://www.food.com/recipeprint.do?rid=284057" rel="rt-1">Print Recipe</a></li>
+							<li id="view-fs">
+								<a id="viewfs" href="#" onclick="window.open('http://www.food.com/recipefullpage.do?rid=284057','_blank','menubar=1,resizable=1,titlebar=1,toolbar=1,location=1,status=1,scrollbars=1')" class="vfs" rel="rt-2" target="_top">View Full Screen</a>
+								<div id="tip-hldr" class="tip-hldr">
+									<div class="tip-top"></div>
+									<div class="tip-mid">
+										<div class="kv-tip">
+											<span class="kv-tip-right"></span>
+											<p>Full-Page View expands the recipe ingredients and directions for easy viewing in the kitchen.</p>
+										</div>
+									</div>
+									<div class="tip-bottom"></div>
+								</div>
+							</li>
+							<li id="add-note"><a id="addpnote" href="#" class="apn" rel="rt-3">Add a Private Note</a></li>
+							<li id="add-photo"><a id="addyph" href="http://www.food.com/members/subm/pics/add?rid=284057" class="ayp" rel="rt-4">Add Your Photos</a></li>
+							<li id="write-rev">
+								<a id="wrrev" href="http://www.food.com/bb/posting.zsp?mode=newtopic&f=2&subject=Question:Sausage and Pepperoni Cheese Stuffed Calzone&message=recipe-284057" class="ac" rel="rt-5">Ask a Question</a>
+								<div id="tip-ask" class="tip-ask">
+									<div class="tip-top"></div>
+									<div class="tip-mid">
+										<div class="kv-tip">
+											<span class="kv-tip-right"></span>
+											<p>Get answers about this recipe in our Cooking Q&amp;A forum.</p>
+										</div>
+									</div>
+									<div class="tip-bottom"></div>
+								</div>
+							</li>
+							
+								<li id="submit-correction" class="last">
+									<a id="subycorr" href="http://www.food.com/recipe/edit.php?rid=284057" class="sac" rel="rt-6">Submit a Correction</a>
+									<div id="tip-sub" class="tip-sub">
+										<div class="tip-top"></div>
+										<div class="tip-mid">
+											<div class="kv-tip">
+												<span class="kv-tip-right"></span>
+												<p>Spot a typo or missing ingredient? Submit your correction for review.</p>
+											</div>
+										</div>
+										<div class="tip-bottom"></div>
+									</div>
+								</li>
+							
+						</ul>
+					</div>
+					<div class="rz-bd">
+						<h5>SAVE THIS RECIPE</h5>
+						<ul class="top clrfix">
+							<li id="add-to-cb">
+								<a id="addtocb" href="#" class="atc" rel="svr-1">Add to Cookbook</a>
+								<div id="tip-addto" class="tip-addto">
+									<div class="tip-top"></div>
+									<div class="tip-mid">
+										<div class="kv-tip">
+											<span class="kv-tip-right"></span>
+											<p>Save this recipe in your online cookbook to access when you need it.</p>
+										</div>
+									</div>
+									<div class="tip-bottom"></div>
+								</div>
+							</li>
+							<li id="add-to-sl">
+								<a id="addtosl" href="#" class="ats" rel="svr-2">Add to Shopping List</a>
+								<div id="tip-shopping" class="tip-shopping">
+									<div class="tip-top"></div>
+									<div class="tip-mid">
+										<div class="kv-tip">
+											<span class="kv-tip-right"></span>
+											<p>Add this recipe's ingredients to your weekly shopping list.</p>
+										</div>
+									</div>
+									<div class="tip-bottom"></div>
+								</div>
+							</li>
+							<li id="add-to-m" class="last">
+								<a id="addtomn" href="#" class="atm" rel="svr-3">Add to Menu</a>
+								<div id="tip-menu" class="tip-menu">
+									<div class="tip-top"></div>
+									<div class="tip-mid">
+										<div class="kv-tip">
+											<span class="kv-tip-right"></span>
+											<p>Create a new menu and save this recipe for easy meal planning.</p>
+										</div>
+									</div>
+									<div class="tip-bottom"></div>
+								</div>
+							</li>
+						</ul>
+					</div>
+					<div class="rz-bd last">
+						<h5>SHARE THIS RECIPE</h5>
+						<ul class="top clrfix">
+							<li id="send-to-p">
+								<a href="#" class="stm" id="sendtmob" rel="shr-1">Send to Mobile</a>
+								<div id="tip-send" class="tip-send">
+									<div class="tip-top"></div>
+									<div class="tip-mid">
+										<div class="kv-tip">
+											<span class="kv-tip-right"></span>
+											<p>Text a link of this recipe to your web-enabled cell phone.</p>
+										</div>
+									</div>
+									<div class="tip-bottom"></div>
+								</div>
+							</li>
+							<li id="send-to-em">
+								<a id="sheml"  href="http://www.food.com/email.zsp?url=/284057" class="emi" rel="shr-2">Email</a>
+							</li>
+							<li id="recipe-share-this" class="is-sharethis-button last"><a id="shsh"  href="javascript: void(0);" class="sha" rel="shr-3">Share</a></li>
+                            <li id="recipe-tweet" class="is-twitter-button last"></li>
+                            <li id="recipe-facebook" class="is-fb-like-button last"></li>
+						</ul>
+					</div>
+				</div>
+				<div class="recipe-detail-wrap">
+					
+          <script charset="utf-8" type="text/javascript">
+            SNI.RZ.IS.ShareThis.init({element: "#recipe-share-this a"}, 'sharethis');
+            SNI.RZ.IS.Twitter.share({element: "#recipe-tweet", messages: {pageTitle: "Sausage and Pepperoni Cheese Stuffed Calzone"}});
+            SNI.RZ.IS.FB.like({element: "#recipe-facebook"});
+            SNI.RZ.CustomDropdown.addToRecipeLinks("284057");
+        </script>
+					
+
+
+
+
+
+<script language="javascript">
+
+    SNI.RZ.Recipe.servingConfig = {
+        url: "http://www.food.com/recipe/sausage-and-pepperoni-cheese-stuffed-calzone-284057?",
+        mode: "null"
+    };
+    
+</script>
+<div class="pod ingredients clrfix">
+	<h2>Ingredients:</h2>
+		
+	<div class="rz-ss-e serviceSize" style="display:block;">
+		<div class="section clrfix">
+		
+		<div class="part">	
+		
+		<p>Servings:</p>
+		
+		<input type="hidden" id="original_value" value="4">
+		<select name="servingssize" id="servingssize" class="fsm" onchange="setServing(this)">
+			<option class="select-title">4 </option>
+			<option selected="selected" value="4 ">4</option>	
+		</select>
+		<script language="javascript">
+			var oldServing = 4;
+		</script>
+		
+		
+		 	<p class="yieldUnits-txt"></p>
+		
+		<script type="text/javascript" charset="utf-8">
+			$('#servingssize').servingsize_dropdown({ddTypeName: ''});
+		</script>
+		</div>
+	</div>
+	<div class="section clrfix units">
+		<div class="part"><p>Units:  US  |  <a href="http://www.food.com/recipe/sausage-and-pepperoni-cheese-stuffed-calzone-284057?mode=metric&scaleto=4.0&st=null">Metric</a></p></div>
+	</div>
+	</div>
+	
+	
+	
+	
+	
+		<ul>
+		<li class="ingredient">
+			<span class="ingredient"><span class="amount"><span class="value">1 1/2</span> <span class="type">cups</span></span>  
+			<span class="name">						
+			 
+			
+				<a href="http://www.food.com/library/sausage-295">
+			sausage</a>, ground			
+			
+			</span>
+			
+			</span>
+			</li>
+		
+		<li class="ingredient">
+			<span class="ingredient"><span class="amount"><span class="value">1 </span> <span class="type">lb</span></span>  
+			<span class="name">						
+			 
+			pizza dough, thawed			
+			
+			</span>
+			
+			</span>
+			</li>
+		
+		<li class="ingredient">
+			<span class="ingredient"><span class="amount"><span class="value">1 </span> <span class="type">cup</span></span>  
+			<span class="name">						
+			 
+			
+				<a href="http://www.food.com/library/ricotta-cheese-291">
+			part-skim ricotta cheese</a>, drained well			
+			
+			</span>
+			
+			</span>
+			</li>
+		
+		<li class="ingredient">
+			<span class="ingredient"><span class="amount"><span class="value">4 </span> <span class="type">cups</span></span>  
+			<span class="name">						
+			 
+			
+				<a href="http://www.food.com/library/mozzarella-746">
+			mozzarella cheese</a>, shredded			
+			
+			</span>
+			
+			</span>
+			</li>
+		
+		<li class="ingredient">
+			<span class="ingredient"><span class="amount"><span class="value">1/2</span> <span class="type">cup</span></span>  
+			<span class="name">						
+			 
+			
+				<a href="http://www.food.com/library/parmesan-cheese-467">
+			parmesan cheese</a>			
+			
+			</span>
+			
+			</span>
+			</li>
+		
+		<li class="ingredient">
+			<span class="ingredient"><span class="amount"><span class="value">1 </span> <span class="type">cup</span></span>  
+			<span class="name">						
+			 
+			pepperoni slice, cooked			
+			
+			</span>
+			
+			</span>
+			</li>
+		
+		<li class="ingredient">
+			<span class="ingredient"><span class="amount"><span class="value">2 </span> <span class="type">tablespoons</span></span>  
+			<span class="name">						
+			 
+			italian seasoning			
+			
+			</span>
+			
+			</span>
+			</li>
+		
+		<li class="ingredient">
+			<span class="ingredient"><span class="amount"><span class="value">1 </span> <span class="type">teaspoon</span></span>  
+			<span class="name">						
+			 
+			
+				<a href="http://www.food.com/library/red-pepper-flakes-507">
+			crushed red pepper flakes</a>			
+			
+			</span>
+			
+			</span>
+			</li>
+		
+		<li class="ingredient">
+			<span class="ingredient"><span class="amount"><span class="value">1 </span> <span class="type"></span></span>  
+			<span class="name">						
+			 
+			
+				<a href="http://www.food.com/library/garlic-165">
+			garlic clove</a>, minced			
+			
+			</span>
+			
+			</span>
+			</li>
+		
+		<li class="ingredient">
+			<span class="ingredient"><span class="amount"><span class="value">2 </span> <span class="type">tablespoons</span></span>  
+			<span class="name">						
+			 
+			
+				<a href="http://www.food.com/library/olive-oil-495">
+			olive oil</a>			
+			
+			</span>
+			
+			</span>
+			</li>
+		
+		<li class="ingredient">
+			<span class="ingredient"><span class="amount"><span class="value">2 </span> <span class="type">tablespoons</span></span>  
+			<span class="name">						
+			 
+			
+				<a href="http://www.food.com/library/parmesan-cheese-467">
+			parmesan cheese</a>, grated, to taste			
+			
+			</span>
+			
+			</span>
+			</li>
+		
+		<li class="ingredient">
+			<span class="ingredient"><span class="amount"><span class="value">2 </span> <span class="type">cups</span></span>  
+			<span class="name">						
+			 
+			marinara sauce, to dip, heated			
+			
+			</span>
+			
+			</span>
+			</li>
+		
+		<li class="ingredient">
+			 
+			<span class="name">						
+			 
+			salt and pepper			
+			
+			</span>
+			
+			</span>
+			</li>
+		
+			</ul>
+		
+</div>
+
+
+					
+
+
+
+
+<div class="pod directions">
+	<h2>Directions:</h2>
+	
+	<span class="instructions">
+	<ol>
+		
+			<li><div class="num">1</div> <div class="txt">Preheat oven and pizza stone (if available) to 450 degrees Fahrenheit. </div></li>
+		
+			<li><div class="num">2</div> <div class="txt">In a large grill plan, cook sausage until browned.  Drain.</div></li>
+		
+			<li><div class="num">3</div> <div class="txt">In a medium bowl, combine ricotta, mozzarella, garlic, seasonings, pepperoni and cooked sausage.  Season to taste with salt and black pepper.</div></li>
+		
+			<li><div class="num">4</div> <div class="txt">Roll dough out to a 15&quot; circle on a pizza paddle or baking sheet that has been lightly dusted with cornmeal.  It doesn't have to be a perfect circle.</div></li>
+		
+			<li><div class="num">5</div> <div class="txt">Spread meat and cheese filling over 1 side of the dough.  Leave at least 1-inch of the edge without filling to ensure a tight seal.</div></li>
+		
+			<li><div class="num">6</div> <div class="txt">Lift 1 side of dough and fold over so that it meets the other side, forming a half moon, and pinch the edges together to seal, using a fork to press edges together.  Remove any excess dough which isn't needed for the seal.</div></li>
+		
+			<li><div class="num">7</div> <div class="txt">Brush with olive oil and sprinkle some parmesan cheese over top.</div></li>
+		
+			<li><div class="num">8</div> <div class="txt">Cut a few slits in the top to allow steam to release.</div></li>
+		
+			<li><div class="num">9</div> <div class="txt">Transfer calzone from pizza pad to pizza stone in oven.</div></li>
+		
+			<li><div class="num">10</div> <div class="txt">Bake 10-15 minutes, until puffed up golden brown.</div></li>
+		
+			<li><div class="num">11</div> <div class="txt">Let stand 5 minutes before serving.</div></li>
+		
+			<li><div class="num">12</div> <div class="txt">Heat the marinara sauce in the microwave for dipping.</div></li>
+		
+	</ol>
+	</span>
+	
+		<div class="recipe-ft clrfix">
+			<div class="rz-e"><a id="prnthisrep" class="small-button" target="_new" href="http://www.food.com/recipeprint.do?rid=284057" rel="prntrcp-ccw"><span><em class="label print"></em>Print This Recipe</span></a></div>
+		</div>	
+</div>
+				</div>
+				<div class="pod topCollection">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h2 class="hd">Browse Our Top <a id="brtoprec" href="http://www.food.com/recipes/pizza">Pizza</a> Recipes</h2>
+    <ul class="colList clrfix" id ="bmrec">
+            
+                <li>
+                  <a  href="http://www.food.com/recipe/sausage-stuffed-portabella-mushrooms-with-mozzarella-cheese-192698" rel="bmr-0"><img src="http://food.sndimg.com/img/recipes/19/26/98/thumbs/picXLqC7d.jpg" title="Sausage-Stuffed Portabella Mushrooms With Mozzarella Cheese. Recipe by Kittencalskitchen" alt="Sausage-Stuffed Portabella Mushrooms With Mozzarella Cheese. Recipe by Kittencalskitchen"/></a>
+                	<p><a href="http://www.food.com/recipe/sausage-stuffed-portabella-mushrooms-with-mozzarella-cheese-192698" rel="bmr-0">Sausage-Stuffed Portabella Mushrooms With Mozzarella...</a></p>
+                  <small>By Kittencalskitchen</small>
+                  
+                	<span class="inline-rating small">
+                		<ul class="star-rating">
+                			<li style="width: 100.00%;;" class="current-rating"></li>
+                		</ul>
+                	</span>
+                  
+                </li>
+            
+                <li>
+                  <a  href="http://www.food.com/recipe/pepperoni-cheese-bread-calzone-388069" rel="bmr-1"><img src="http://food.sndimg.com/img/recipes/38/80/69/thumbs/picfH3p3Y.jpg" title="Pepperoni Cheese Bread / Calzone. Recipe by Dottygumdrop" alt="Pepperoni Cheese Bread / Calzone. Recipe by Dottygumdrop"/></a>
+                	<p><a href="http://www.food.com/recipe/pepperoni-cheese-bread-calzone-388069" rel="bmr-1">Pepperoni Cheese Bread / Calzone</a></p>
+                  <small>By Dottygumdrop</small>
+                  
+                	<span class="inline-rating small">
+                		<ul class="star-rating">
+                			<li style="width: 100.00%;;" class="current-rating"></li>
+                		</ul>
+                	</span>
+                  
+                </li>
+            
+                <li>
+                  <a  href="http://www.food.com/recipe/stuffed-mushrooms-w-cream-cheese-sausage-43396" rel="bmr-2"><img src="http://food.sndimg.com/img/recipes/43/39/6/thumbs/picIEzmEv.jpg" title="Stuffed Mushrooms W. Cream Cheese &amp; Sausage. Recipe by Lissa Sprenne" alt="Stuffed Mushrooms W. Cream Cheese &amp; Sausage. Recipe by Lissa Sprenne"/></a>
+                	<p><a href="http://www.food.com/recipe/stuffed-mushrooms-w-cream-cheese-sausage-43396" rel="bmr-2">Stuffed Mushrooms W. Cream Cheese &amp; Sausage</a></p>
+                  <small>By Lissa Sprenne</small>
+                  
+                	<span class="inline-rating small">
+                		<ul class="star-rating">
+                			<li style="width: 97.60%;;" class="current-rating"></li>
+                		</ul>
+                	</span>
+                  
+                </li>
+            
+                <li>
+                  <a  href="http://www.food.com/recipe/cheese-and-onion-stuffed-sausages-278421" rel="bmr-3"><img src="http://food.sndimg.com/img/recipes/27/84/21/thumbs/pic6rn86K.jpg" title="Cheese and Onion Stuffed Sausages. Recipe by Peter J" alt="Cheese and Onion Stuffed Sausages. Recipe by Peter J"/></a>
+                	<p><a href="http://www.food.com/recipe/cheese-and-onion-stuffed-sausages-278421" rel="bmr-3">Cheese and Onion Stuffed Sausages</a></p>
+                  <small>By Peter J</small>
+                  
+                	<span class="inline-rating small">
+                		<ul class="star-rating">
+                			<li style="width: 94.00%;;" class="current-rating"></li>
+                		</ul>
+                	</span>
+                  
+                </li>
+            
+    </ul>
+
+					  
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+	<div class="ft">
+		<div class="hd clrfix">
+			<h2>Recipe Collections</h2>
+			<p><a id="vallreccoll" href="http://www.food.com/recipe-collections/">View all Recipe Collections</a></p>
+		</div>
+		<div class="colTextList clrfix" id="reccoll">
+			
+	    
+			<ul class="list">
+			
+				<li><a href="http://www.food.com/recipe-collection/stuffed-shells" rel="rc-1">Stuffed Shells</a></li>
+			
+		
+	    
+				<li><a href="http://www.food.com/recipe-collection/egg-casserole" rel="rc-2">Egg Casserole</a></li>
+			
+			</ul>
+			
+		
+	    
+			<ul class="list">
+			
+				<li><a href="http://www.food.com/recipe-collection/ravioli" rel="rc-3">Ravioli</a></li>
+			
+		
+	    
+				<li><a href="http://www.food.com/recipe-collection/chicken-breast" rel="rc-4">Chicken Breast</a></li>
+			
+			</ul>
+			
+		
+	    
+			<ul class="list">
+			
+				<li><a href="http://www.food.com/recipe-collection/manicotti" rel="rc-5">Manicotti</a></li>
+			
+		
+	    
+				<li><a href="http://www.food.com/recipe-collection/cheese-soup" rel="rc-6">Cheese Soup</a></li>
+			
+			</ul>
+			
+		</div>
+	</div>
+
+				</div>
+				
+				<div style="clear:both">
+					
+
+
+
+<script language="javascript">
+    SNI.RZ.Recipe.commentsConfig = {
+        memberId: "0"
+    };
+</script>
+<div class="pod ratings-reviews-list">
+	
+	
+	
+		<h2>Ratings &amp; Reviews:</h2>
+	
+	
+        <script type="text/javascript">
+            var cook = readCookie('rz_review_vote');            
+        </script>
+		<ul>
+	
+		<li class="clrfix">
+			<div class="rz-w">
+				<a href="http://share.food.com/community/Chef-Diva-Divine/style.esi?member_id=293757"><img src="http://picklemedia1.scrippsnetworks.com/pickle_media1/media/userphoto/100912/U18325198/Photo_Video_23397741157097756620904_square.jpg" alt="" width="48" height="48" /></a>
+				
+
+				<div class="about-recipe-info">
+					<div class="user-info clrfix">
+						<p>By <a href="http://share.food.com/community/Chef-Diva-Divine/style.esi?member_id=293757">Chef 'Diva Divine</a></p>
+						<dl class="fsm" id="aboutRnR0">
+							
+
+
+
+
+
+<dt class="user-click"><a><span></span></a></dt>
+<dd class="flyout fly-dd" id="userFlyout">
+	<div class="fly-hd"></div>
+	<div class="fly-bd">
+		<a class="close"></a>
+		<h3>Select One</h3>
+		<ul class="fly-ul">
+			<li class="fly-li"><a href="http://www.food.com/mail/compose?to=293757" class="contact_this_chef">Contact This Chef</a></li>
+			<li class="fly-li"><a href="http://share.food.com/community/dname/style.esi?member_id=293757">Chef's Page</a></li>
+			<li class="fly-li"><a href="http://www.food.com/recipes.php?chef=293757">Chef's Recipes</a></li>
+			<li class="fly-li"><a href="http://share.food.com/community/dname/portfolio.esi?member_id=293757">Chef's Photos</a></li>
+			<li class="fly-li"><a href="http://share.food.com/community/dname/reviews.esi?member_id=293757">Chef's Reviews</a></li>
+			<li class="fly-li"><a href="http://www.food.com/cookbooks.php?mid=293757">Chef's Cookbooks</a></li>
+			<li class="fly-li"><a href="http://www.food.com/menus.php?owner=293757">Chef's Menus</a></li>
+			<li class="fly-li"><a href="javascript:void(0);" class="add_chef_to_favorites" id="favorite_chef_293757">Add to Favorites </a></li>
+		</ul>
+	</div>
+	<div class="fly-ft"></div>
+</dd>
+
+						</dl>
+						<script type="text/javascript" charset="utf-8">
+							SNI.RZ.CustomDropdown.init('#aboutRnR0', { recipeId: 284057 });
+						</script>
+					</div>	
+					<p>on February 10, 2011</p>
+				</div>
+				
+				
+				
+			
+			</div>
+			<div class="rz-e">
+				<div class="rz-hd"></div>
+				<div class="rz-bd">
+					<div class="arrow"></div>
+					
+					
+						<p class="comment-rating"><span class="rating-sm-5"></span></p>
+					
+					
+					
+						<p>YYUUMMMMYY!!!!  So simple, but so good.  I too opted to use cottage cheese and used a bit more garlic (pr personal pref).  used a 10oz block of cheese as all I had on hand that I shredded.  Thnx 4 this awesome post that is sure to b a pleaser on any night!!</p>
+						<div class="end-quote"></div>
+						<small><label id='count_1190794'>0</label> people found this review Helpful.</small>
+						
+							<small id='was_this_1190794'>Was this review helpful to you? <a href="javascript:switchOnSignIn('we_dont_know_1190794');"><strong>Yes</strong></a> | <a href="javascript:switchOnSignIn('we_dont_know_1190794');"><strong>No</strong></a></small>
+							<small style="display:none;" id='we_dont_know_1190794'>We don't know who you are. <a href="javascript:window.location='http://share.food.com/registration/login.esi?DEST_URL='+escape(document.location.href)">Sign in</a> or <a href="javascript:window.location='http://share.food.com/registration/register_lite.esi?DEST_URL='+escape(document.location.href)">create an account</a></small>								
+															
+						
+						<script language="javascript" type="text/javascript">
+							if(cook!=undefined && cook.indexOf("review_0_1190794")!=-1)
+								udateHelpfull("1190794");
+						</script>		
+					
+					
+				</div>
+				<div class="rz-ft"></div>
+			</div>
+		</li>
+	
+		<li class="clrfix">
+			<div class="rz-w">
+				<a href="http://share.food.com/community/greenstarfudgsicle/style.esi?member_id=1795898"><img src="http://picklemedia1.scrippsnetworks.com/pickle_media1/media/userphoto/110115/U21189308/Photo_Video_8523547128390095974336_square.jpg" alt="" width="48" height="48" /></a>
+				
+
+				<div class="about-recipe-info">
+					<div class="user-info clrfix">
+						<p>By <a href="http://share.food.com/community/greenstarfudgsicle/style.esi?member_id=1795898">greenstarfudgsicle</a></p>
+						<dl class="fsm" id="aboutRnR1">
+							
+
+
+
+
+
+<dt class="user-click"><a><span></span></a></dt>
+<dd class="flyout fly-dd" id="userFlyout">
+	<div class="fly-hd"></div>
+	<div class="fly-bd">
+		<a class="close"></a>
+		<h3>Select One</h3>
+		<ul class="fly-ul">
+			<li class="fly-li"><a href="http://www.food.com/mail/compose?to=1795898" class="contact_this_chef">Contact This Chef</a></li>
+			<li class="fly-li"><a href="http://share.food.com/community/dname/style.esi?member_id=1795898">Chef's Page</a></li>
+			<li class="fly-li"><a href="http://www.food.com/recipes.php?chef=1795898">Chef's Recipes</a></li>
+			<li class="fly-li"><a href="http://share.food.com/community/dname/portfolio.esi?member_id=1795898">Chef's Photos</a></li>
+			<li class="fly-li"><a href="http://share.food.com/community/dname/reviews.esi?member_id=1795898">Chef's Reviews</a></li>
+			<li class="fly-li"><a href="http://www.food.com/cookbooks.php?mid=1795898">Chef's Cookbooks</a></li>
+			<li class="fly-li"><a href="http://www.food.com/menus.php?owner=1795898">Chef's Menus</a></li>
+			<li class="fly-li"><a href="javascript:void(0);" class="add_chef_to_favorites" id="favorite_chef_1795898">Add to Favorites </a></li>
+		</ul>
+	</div>
+	<div class="fly-ft"></div>
+</dd>
+
+						</dl>
+						<script type="text/javascript" charset="utf-8">
+							SNI.RZ.CustomDropdown.init('#aboutRnR1', { recipeId: 284057 });
+						</script>
+					</div>	
+					<p>on January 15, 2011</p>
+				</div>
+				
+				
+				
+			
+			</div>
+			<div class="rz-e">
+				<div class="rz-hd"></div>
+				<div class="rz-bd">
+					<div class="arrow"></div>
+					
+					
+						
+					
+					
+					
+						<p>Great recipe for the family to enjoy while it's rainin' outside or jus' frigid COLD..BRRRRRR.  Real ez</p>
+						<div class="end-quote"></div>
+						<small><label id='count_1183150'>0</label> people found this review Helpful.</small>
+						
+							<small id='was_this_1183150'>Was this review helpful to you? <a href="javascript:switchOnSignIn('we_dont_know_1183150');"><strong>Yes</strong></a> | <a href="javascript:switchOnSignIn('we_dont_know_1183150');"><strong>No</strong></a></small>
+							<small style="display:none;" id='we_dont_know_1183150'>We don't know who you are. <a href="javascript:window.location='http://share.food.com/registration/login.esi?DEST_URL='+escape(document.location.href)">Sign in</a> or <a href="javascript:window.location='http://share.food.com/registration/register_lite.esi?DEST_URL='+escape(document.location.href)">create an account</a></small>								
+															
+						
+						<script language="javascript" type="text/javascript">
+							if(cook!=undefined && cook.indexOf("review_0_1183150")!=-1)
+								udateHelpfull("1183150");
+						</script>		
+					
+					
+				</div>
+				<div class="rz-ft"></div>
+			</div>
+		</li>
+	
+		<li class="clrfix">
+			<div class="rz-w">
+				<a href="http://share.food.com/community/tara-portee/style.esi?member_id=92886"><img src="http://share.recipezaar.com/skins/main/images/profilephotolookup/21_square.gif" alt="" width="48" height="48" /></a>
+				
+
+				<div class="about-recipe-info">
+					<div class="user-info clrfix">
+						<p>By <a href="http://share.food.com/community/tara-portee/style.esi?member_id=92886">tara portee</a></p>
+						<dl class="fsm" id="aboutRnR2">
+							
+
+
+
+
+
+<dt class="user-click"><a><span></span></a></dt>
+<dd class="flyout fly-dd" id="userFlyout">
+	<div class="fly-hd"></div>
+	<div class="fly-bd">
+		<a class="close"></a>
+		<h3>Select One</h3>
+		<ul class="fly-ul">
+			<li class="fly-li"><a href="http://www.food.com/mail/compose?to=92886" class="contact_this_chef">Contact This Chef</a></li>
+			<li class="fly-li"><a href="http://share.food.com/community/dname/style.esi?member_id=92886">Chef's Page</a></li>
+			<li class="fly-li"><a href="http://www.food.com/recipes.php?chef=92886">Chef's Recipes</a></li>
+			<li class="fly-li"><a href="http://share.food.com/community/dname/portfolio.esi?member_id=92886">Chef's Photos</a></li>
+			<li class="fly-li"><a href="http://share.food.com/community/dname/reviews.esi?member_id=92886">Chef's Reviews</a></li>
+			<li class="fly-li"><a href="http://www.food.com/cookbooks.php?mid=92886">Chef's Cookbooks</a></li>
+			<li class="fly-li"><a href="http://www.food.com/menus.php?owner=92886">Chef's Menus</a></li>
+			<li class="fly-li"><a href="javascript:void(0);" class="add_chef_to_favorites" id="favorite_chef_92886">Add to Favorites </a></li>
+		</ul>
+	</div>
+	<div class="fly-ft"></div>
+</dd>
+
+						</dl>
+						<script type="text/javascript" charset="utf-8">
+							SNI.RZ.CustomDropdown.init('#aboutRnR2', { recipeId: 284057 });
+						</script>
+					</div>	
+					<p>on March 02, 2009</p>
+				</div>
+				
+				
+				
+			
+			</div>
+			<div class="rz-e">
+				<div class="rz-hd"></div>
+				<div class="rz-bd">
+					<div class="arrow"></div>
+					
+					
+						<p class="comment-rating"><span class="rating-sm-5"></span></p>
+					
+					
+					
+						<p>Awesome.  I only used half of the mozzarella cheese (trying to reduce calories a bit) and I divided the dough to make several smaller pies.   I used cottage cheese instead of ricotta (just a personal preference) I was wild about the filling; I think it was the creaminess added by the cottage cheese.  My husband even said twice how good this was, and that does not happen very often!  This is absolutely a keeper.</p>
+						<div class="end-quote"></div>
+						<small><label id='count_820532'>1</label> person found this review Helpful.</small>
+						
+							<small id='was_this_820532'>Was this review helpful to you? <a href="javascript:switchOnSignIn('we_dont_know_820532');"><strong>Yes</strong></a> | <a href="javascript:switchOnSignIn('we_dont_know_820532');"><strong>No</strong></a></small>
+							<small style="display:none;" id='we_dont_know_820532'>We don't know who you are. <a href="javascript:window.location='http://share.food.com/registration/login.esi?DEST_URL='+escape(document.location.href)">Sign in</a> or <a href="javascript:window.location='http://share.food.com/registration/register_lite.esi?DEST_URL='+escape(document.location.href)">create an account</a></small>								
+															
+						
+						<script language="javascript" type="text/javascript">
+							if(cook!=undefined && cook.indexOf("review_0_820532")!=-1)
+								udateHelpfull("820532");
+						</script>		
+					
+					
+				</div>
+				<div class="rz-ft"></div>
+			</div>
+		</li>
+	
+	</ul>
+	
+	<p class="more"><a href="http://www.food.com/recipe/sausage-and-pepperoni-cheese-stuffed-calzone-284057/review">Read All Reviews (4)</a></p>
+
+
+</div>
+
+				</div>
+				
+			</div>
+			
+		</div>
+			<div id="rz-e" class="rz-e-rec">
+				<div class="rz-e-hd"></div>
+				
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			
+							<div class="pod next-recipe clrfix">
+								<h4><strong>Next Recipe:</strong></h4>
+									<div class="bd clrfix">
+										<a id="nxt-recipe-img" href="javascript:loadNextRecipe('http://www.food.com/recipe/spinach-cheese-and-sausage-stuffed-shells-oamc-424591','424591');" rel="nri-1"><img src="http://food.sndimg.com/img/recipes/42/45/91/thumbs/pic0ilOa9.jpg" alt="Spinach, Cheese, and Sausage Stuffed Shells OAMC. Recipe by Hwin" title="Spinach, Cheese, and Sausage Stuffed Shells OAMC. Recipe by Hwin" width="92" height="69" /></a>
+										<div class="cont">
+											<p><a id="nxt-recipe-txt" href="http://www.food.com/recipe/spinach-cheese-and-sausage-stuffed-shells-oamc-424591" rel="nrt-1">Spinach, Cheese, and Sausage Stuffed Shells OAMC</a></p>
+											<small>By <a id="nxt-recipe-by" rel="nr-1" href="http://share.food.com/community/Hwin/style.esi?member_id=326430">Hwin</a></small>
+											
+											<span class="inline-rating small">
+												<ul class="star-rating">
+													<li class="current-rating" style="width: 100.00%;"></li>
+												</ul>
+											</span>
+											
+										</div>
+										<a id="nxt-recipe" href="javascript:loadNextRecipe('http://www.food.com/recipe/spinach-cheese-and-sausage-stuffed-shells-oamc-424591','424591');" rel="nr-1"><em></em></a>
+									</div>
+									<small><a href="http://www.food.com/recipes/pizza" id="ViewAllRecipe">View All Pizza Recipes</a></small>
+							</div>
+						
+
+
+<form name="nextrecipeform" method="POST">
+<input type="hidden" name="nextrecipeids" id="nextrecipeids" value="284057" />
+<input type="hidden" name="nrf" id="nrf" value="true" />
+
+				<div class="ad" id="bigbox">
+	<script type="text/javascript">BigboxAd('5',mdManager.getKeywords());</script>
+	<p>Advertisement</p>
+</div>
+
+				
+
+
+				
+
+<div class="hd pod-white-rc"></div>				
+<div class="pod nutrition-facts clrfix">
+	<div class="hd clrfix">
+		<div class="hd nutrition-facts"></div>
+		<h3 class="title">Nutritional Facts for Sausage and Pepperoni Cheese Stuffed Calzone</h3>
+		<div>
+			<!--<h4></h4>//-->	
+			<p>Serving Size: 1 (465 g)</p>
+			<p>Servings Per Recipe: 4</p>
+			
+		</div>
+	</div>
+	
+	<div class="bd clrfix">
+		<dl>
+			<dt>Amount Per Serving</dt>
+
+			<dd>% Daily Value</dd>
+			
+			<dt class="cals nutrition">Calories <span class="calories">602.6</span></dt>
+			<dd class="cals">&nbsp;</dd>
+			
+			
+			<dt class="fat-cals nutrition">Calories from Fat 384</dt>
+			<dd class="fat-cals">63%</dd>
+			
+			<dt class="sub nutrition">Total Fat <span class="value"><span class="fat">42.6</span></span><span class="type"> g</span></dt>
+
+			<dd class="sub">65%</dd>
+			
+			<dt class="sub nutrition">Saturated Fat <span class="value"><span class="saturatedFat">21.7</span></span><span class="type"> g</span></dt>
+
+			<dd class="sub">108%</dd>
+			
+			<dt class="nutrition">Cholesterol <span class="value"><span class="cholesterol">122.0</span></span><span class="type"> mg</span></dt>
+
+			<dd>40%</dd>
+			
+			<dt class="nutrition">Sodium <span class="value">1271.3</span><span class="type"> mg</span></dt>
+			<dd>52%</dd>
+			
+			<dt class="nutrition">Total Carbohydrate <span class="value"><span class="carbohydrates">15.4</span></span><span class="type"> g</span></dt>
+
+			<dd>5%</dd>
+			
+			<dt class="sub nutrition">Dietary Fiber <span class="value"><span class="fiber">1.7</span></span><span class="type"> g</span></dt>
+			<dd class="sub">6%</dd>
+			
+			<dt class="sub nutrition">Sugars <span class="value"><span class="fiber">7.2</span></span><span class="type"> g</span></dt>
+			<dd class="sub">28%</dd> 
+			
+			<dt class="last nutrition">Protein <span class="value"><span class="protein">38.8</span></span><span class="type"> g</span></dt>
+
+			<dd class="last">77%</dd>
+		</dl>
+	</div>
+	
+	
+	
+	<div class="bd nf clrfix">
+		<div class="exclude">	
+			<p class="nf-title">The following items or measurements are not included:</p>
+			
+				<p class="nf-item">
+					pizza dough
+				</p>
+			
+				<p class="nf-item">
+					italian seasoning
+				</p>
+			
+		</div>
+	</div>
+	
+	
+	
+	<div class="ft">
+		<a href="http://www.food.com/recipe/nutrition?rid=284057" class="detail">Detailed Nutrition Values</a>
+		<a href="http://www.food.com/help/nutrition.zsp" class="about">About Nutrition Info</a>
+	</div>
+
+</div>
+
+				
+
+
+
+
+
+
+
+
+<div class="pod crosslink">
+	<div>
+		<h1 class="title">More Recipes Like This From Food Network</h1>
+	</div>
+	<!--  <p>Your preferred term is: <b>null</b></p>-->
+	<div class="bd">
+		<ul class="list">
+		<li>
+				
+					<a href="http://www.foodnetwork.com/topics/italian/index.html">
+				
+				Italian Recipes
+				
+				</a>
+				
+				</li><li>
+				
+					<a href="http://www.foodnetwork.com/recipe-collections/alfredo/index.html">
+				
+				Alfredo Recipes
+				
+				</a>
+				
+				</li><li>
+				
+					<a href="http://www.foodnetwork.com/topics/easy-pasta/index.html">
+				
+				Easy Pastas
+				
+				</a>
+				
+				</li><li>
+				
+					<a href="http://www.foodnetwork.com/recipe-collections/eggplant-parmesan/index.html">
+				
+				Eggplant Parmesan
+				
+				</a>
+				
+				</li><li>
+				
+					<a href="http://www.foodnetwork.com/recipe-collections/lasagna/index.html">
+				
+				Lasagna Recipes
+				
+				</a>
+				
+				</li>
+		</ul>
+	</div>
+</div>
+
+
+				
+
+
+<script type="text/javascript">
+jQuery.fn.dpl = function () {return true;};
+SNI.Food = {};
+SNI.Food.Omniture = {};
+SNI.Food.Omniture.ClickTrack=function () {return true;}
+</script>
+<div id='inOurStore'>
+<?xml version="1.0" encoding="UTF-8"?><XslTransform><Html>&lt;div id="search-store" class="promo pod hummus promo-pod-with-body"&gt;
+&lt;div class="hd"&gt;
+&lt;h4&gt;
+&lt;a rel="fns-head" href="http://www.cooking.com/foodcom/" target="_blank"&gt;Food.com Store&lt;/a&gt;
+&lt;/h4&gt;
+&lt;/div&gt;
+&lt;div class="bd clrfix"&gt;
+&lt;ul class="list-store-item"&gt;
+&lt;li class="first store-item"&gt;
+&lt;a rel="fns-1" href="http://www.cooking.com/products/shprodde.asp?SKU=193857&amp;CCAID=CBFO193857" title="Doughmakers Pizza Pan" target="_blank"&gt;&lt;img src="http://ifeed.cooking.com/images/products/shprodde/193857.jpg" width="120" height="90" alt="Doughmakers Pizza Pan"&gt;&lt;/a&gt;
+&lt;div class="item-info"&gt;
+&lt;a class="item-description" target="_blank" title="Doughmakers Pizza Pan" href="http://www.cooking.com/products/shprodde.asp?SKU=193857&amp;CCAID=CBFO193857" rel="fns-1"&gt;Doughmakers Pizza Pan&lt;/a&gt;
+&lt;p class="price"&gt;$12.95&lt;/p&gt;
+&lt;/div&gt;
+&lt;/li&gt;
+&lt;li class="last store-item"&gt;
+&lt;a rel="fns-2" href="http://www.cooking.com/products/shprodde.asp?SKU=233840&amp;CCAID=CBFO233840" title="Pyrex Pizza Pan" target="_blank"&gt;&lt;img src="http://ifeed.cooking.com/images/products/shprodde/233840.jpg" width="120" height="90" alt="Pyrex Pizza Pan"&gt;&lt;/a&gt;
+&lt;div class="item-info"&gt;
+&lt;a class="item-description" target="_blank" title="Pyrex Pizza Pan" href="http://www.cooking.com/products/shprodde.asp?SKU=233840&amp;CCAID=CBFO233840" rel="fns-2"&gt;Pyrex Pizza Pan&lt;/a&gt;
+&lt;p class="price"&gt;$9.99&lt;/p&gt;
+&lt;/div&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p class="browse-more"&gt;
+&lt;a rel="fns-products" class="store-link" href="http://www.cooking.com/foodcom/" target="_blank"&gt;
+                Browse More Products
+                &lt;/a&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="ft"&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;script type="text/javascript"&gt;
+                SNI.Food.Omniture.ClickTrack("#search-store", "Food:Site: In Our Store", "In_Our_Store");          
+        &lt;/script&gt;
+</Html></XslTransform>
+</div>
+<script type="text/javascript">
+    var contents = $('#inOurStore').html();
+    if(contents != '') {
+    	var decoder = "";
+    	if(document.all)
+	    	decoder = document.getElementById('inOurStore').innerText;
+	    else
+	    	decoder = $(contents).text();
+	    $('#inOurStore').replaceWith(decoder);
+    }
+</script>
+
+
+				
+
+
+
+				<div class="ad">
+	<script type="text/javascript">GoogleBigboxAd('1');</script>
+	<p>Advertisement</p>
+</div>
+				<div id="vsw_ad"><script type="text/javascript">VswAd(1);</script></div> 
+
+
+				
+
+
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+
+				
+
+
+		
+
+
+
+<div id="rz-footer">
+
+	<div class="hd body-white-roundedcorners"></div>
+
+	<div id="rz-footer-nav">
+	 
+	 
+                
+ 
+                 
+
+
+
+<div class="list-cols" id="rz-sponsored-links">
+			
+			<h4>Ideas from Food.com</h4>
+			
+								
+				<ul class="list">				
+				
+					<li>
+						<a href="http://www.food.com/frozen-desserts/package/home" rel="gf-ideas-1">Frozen Desserts</a>
+					</li>					
+			
+					<li>
+						<a href="http://www.food.com/recipe-collection/hamburger" rel="gf-ideas-2">Hamburger Recipes</a>
+					</li>					
+			
+					<li>
+						<a href="http://www.food.com/recipes/low-carb" rel="gf-ideas-3">Low-Carb Recipes</a>
+					</li>					
+			
+					<li>
+						<a href="http://restaurant.food.com/all-recipes/popular" rel="gf-ideas-4">Popular Restaurant Recipes</a>
+					</li>					
+			
+				</ul>
+								
+				<ul class="list">				
+				
+					<li>
+						<a href="http://www.food.com/recipes/5-ingredients-or-less-main-dish" rel="gf-ideas-5">5 Ingredient Dinner Recipes</a>
+					</li>					
+			
+					<li>
+						<a href="http://www.food.com/recipe/better-than-olive-garden-alfredo-sauce-141983" rel="gf-ideas-6">Alfredo Sauce Recipe</a>
+					</li>					
+			
+					<li>
+						<a href="http://www.food.com/recipe/banana-banana-bread-25885" rel="gf-ideas-7">Banana Bread Recipe</a>
+					</li>					
+			
+					<li>
+						<a href="http://www.food.com/summer-grilling/home/package" rel="gf-ideas-8">Summer Grilling Recipes</a>
+					</li>					
+			
+				</ul>
+								
+				<ul class="list">				
+				
+					<li>
+						<a href="http://www.food.com/recipe/peach-cobbler-31901" rel="gf-ideas-9">Peach Cobbler Recipe</a>
+					</li>					
+			
+					<li>
+						<a href="http://www.food.com/summer-grilling/desserts/package" rel="gf-ideas-10">Summer Dessert Recipes</a>
+					</li>					
+			
+					<li>
+						<a href="http://www.food.com/recipes/chicken-breasts" rel="gf-ideas-11">Chicken Breast Recipes</a>
+					</li>					
+			
+					<li>
+						<a href="http://www.food.com/recipe/shrimp-scampi-26321" rel="gf-ideas-12">Shrimp Scampi Recipe</a>
+					</li>					
+			
+				</ul>
+								
+				<ul class="list">				
+				
+					<li>
+						<a href="http://www.food.com/recipe/basil-pesto-8650" rel="gf-ideas-13">Basil Pesto Recipe</a>
+					</li>					
+			
+					<li>
+						<a href="http://www.food.com/summer-entertaining/home/package" rel="gf-ideas-14">Summer Party Recipes</a>
+					</li>					
+			
+					<li>
+						<a href="http://www.food.com/recipe/ranch-cucumber-salad-316392" rel="gf-ideas-15">Cucumber Salad Recipe</a>
+					</li>					
+			
+					<li>
+						<a href="http://mynewsletters.scrippsnetworks.com:8080/subscription/subscribe?brand=foodcom&source=0000_FC_WEBFORM" rel="gf-ideas-16">Get Our Newsletter</a>
+					</li>					
+			
+				</ul>
+			
+						
+</div>
+
+		<div class="sub-tier">
+			<div id="more-rz">
+				<h5>More from Food.com</h5>
+				<ul class="list">
+					<li>
+						<a href="http://www.food.com/browse/chefs/" rel="gf-more-1">Chef Directory</a>
+					</li>
+					<li>
+						<a href="http://www.food.com/bb/viewforum.zsp?f=12" rel="gf-more-2">Cooking Contests</a>
+					</li>
+					<li>
+						<a href="http://www.food.com/bb/viewforum.zsp?f=2&sid=7d75af848815016d17b2c3709d00ce8a" rel="gf-more-3">Cooking Q &amp; A</a>
+					</li>
+					<li>
+						<a href="http://www.food.com/rssfeeds.php" rel="gf-more-4">RSS</a>
+					</li>
+					<li>
+						<a href="http://www.food.com/sitetour1.do" rel="gf-more-5">Site Tour</a>
+					</li>
+					<li>
+						<a href="http://www.food.com/sitemap.do" rel="gf-more-6">Site Map</a>
+					</li>
+					<li>
+						<a href="http://www.food.com/sitenews/" rel="gf-more-7">The Food.com Blog</a>
+					</li>
+				</ul>
+			</div> 
+			
+
+
+<div class="rz-family-hd"></div>
+<div id="rz-family">
+   <h5>Food.com Family</h5>
+   
+   <div id="crsl-footer" class="pod crsl-footer">
+   <div class="bd crsl">
+	   <ul>
+	     
+			  <li class="panel">
+			  
+			  	   	   <blur><center>
+			    1-3
+				       of
+			    9
+				       </center></blur>
+			       
+				   <ul class="crsl-group">
+				     
+		       
+					       <li class="first crsl-item">						      
+								<h6><a href="http://www.cookingchanneltv.com/?xp=foodcom_footer" target="_blank" rel="cpct-1">Cooking Channel</a></h6> 
+<ul class="list"> 
+<li><a href="http://www.cookingchanneltv.com/recipes/summer-produce-recipes/pictures/page-8.html?xp=foodcom_footer" target="_blank" rel="cpc-1-1">Chocolate Zucchini Bread</a></li> 
+<li><a href="http://www.cookingchanneltv.com/recipes/top-recipes-for-summer-side-dishes/pictures/page-20.html?xp=foodcom_footer" target="_blank" rel="cpc-1-2">Kicked-Up Melon Salad</a></li> 
+<li><a href="http://www.cookingchanneltv.com/breakfast-brunch-recipes-ideas/package/index.html?xp=foodcom_footer" target="_blank" rel="cpc-1-3">Breakfast Recipes</a></li> 
+</ul>	
+					       </li> 
+				    
+					       <li class="first crsl-item">						      
+								<div>
+<h6>
+<a target="_blank" href="http://www.food.com?xp=foodcom_footer">Food.com</a>
+</h6>
+<div class="bd" style="line-height: 1.3;">
+<p><a target="_blank" href="http://www.food.com/recipes-popular"><img style="float: left; border: 1px solid #d4d4d4; padding: 1px; margin-right: 4px;" width="92" height="69" border="0" alt="Food.com" src="http://food.sndimg.com/img/upload/logo/fooddotcom_s92x69.gif"></a><a target="_blank" href="http://www.food.com/recipes-popular">Top-Rated Recipes: Our Most Popular Dishes</a></p>
+</div>
+</div>	
+					       </li> 
+				    
+					       <li class="first crsl-item">						      
+								<h6><a href="http://www.food2.com/?xp=foodcom_footer" target="_blank" rel="cpct-1">Food2</a></h6> 
+<ul class="list"> 
+<li><a href="http://www.food2.com/package/Ice-Cream-You-Scream" target="_blank" rel="cpc-1-1">10+ Ice Creams 2 Die 4</a></li> 
+<li><a href="http://www.food2.com/package/Up-in-Your-Grill-Cocktails?xp=foodcom_footer" target="_blank" rel="cpc-1-2">Cool Summer Cocktails</a></li> 
+<li><a href="http://www.food2.com/package/Up-in-Your-Grill-burgers?xp=foodcom_footer" target="_blank" rel="cpc-1-3">Burger Blowout</a></li> 
+</ul>	
+					       </li> 
+				    				    
+					</ul>	
+		          </li>
+		 
+			  <li class="panel">
+			  
+			  	   	   <blur><center>
+			    4-6
+				       of
+			    9
+				       </center></blur>
+			       
+				   <ul class="crsl-group">
+				     
+		       
+					       <li class="first crsl-item">						      
+								<h6><a href="http://www.diynetwork.com/?xp=foodcom_footer" target="_blank" rel="cpct-1">DIY Network</a></h6> 
+<ul class="list"> 
+<li><a href="http://www.diynetwork.com/how-to/how-to-build-a-backyard-deck/index.html?xp=foodcom_footer" target="_blank" rel="cpc-1-1">Build a Backyard Deck</a></li> 
+<li><a href="http://www.diynetwork.com/outdoors/palatial-patios-from-yard-crashers/pictures/index.html?xp=foodcom_footer" target="_blank" rel="cpc-1-2">Palatial Patios and Lounges</a></li> 
+<li><a href="http://www.diynetwork.com/outdoors/beautiful-walls-and-fences-for-outdoor-spaces/pictures/index.html?xp=foodcom_footer" target="_blank" rel="cpc-1-3">18 Gorgeous Walls & Fences</a></li> 
+</ul>	
+					       </li> 
+				    
+					       <li class="first crsl-item">						      
+								<div>
+<h6>
+<a target="_blank" href="http://www.hgtv.com/?xp=foodcom_footer">HGTV</a>
+</h6>
+<div class="bd" style="line-height: 1.3;">
+<p><a target="_blank" href="http://www.hgtv.com/hgtv-summer-celebration-sweepstakes/package/index.html?xp=scsweeps"><img style="float: left; border: 1px solid #d4d4d4; padding: 1px; margin-right: 4px;" width="92" height="69" border="0" alt="HGTV Design Star" src="http://hgtv.sndimg.com/HGTV/2011/07/15/ad-unit_Summer-Celebration-no-grass_s92x69.jpg"></a><a target="_blank" href="http://www.hgtv.com/hgtv-summer-celebration-sweepstakes/package/index.html?xp=scsweeps
+">Enter the<br>Summer Celebrations<br>Sweepstakes</a></p>
+</div>
+</div>	
+					       </li> 
+				    
+					       <li class="first crsl-item">						      
+								<h6><a href="http://www.frontdoor.com/?xp=foodcom_footer" target="_blank" rel="cpct-1">FrontDoor</a></h6> 
+<ul class="list"> 
+<li><a href="http://www.frontdoor.com/buy/life-on-the-rooftop/pictures/pg177?xp=foodcom_footer" target="_blank" rel="cpc-1-1">Amazing Rooftop Decks</a></li> 
+<li><a href="http://www.frontdoor.com/buy/celebrity-homes-top-cities-where-the-stars-live/56255?xp=foodcom_footer" target="_blank" rel="cpc-1-2">See Where the Stars Live</a></li> 
+<li><a href="http://www.frontdoor.com/agents?xp=foodcom_footer" target="_blank" rel="cpc-1-3">Find a Local Agent</a></li> 
+</ul>	
+					       </li> 
+				    				    
+					</ul>	
+		          </li>
+		 
+			  <li class="panel">
+			   
+				       <blur><center>
+			    7-9
+				       of
+			    9
+				       </center></blur>
+		          
+				   <ul class="crsl-group">
+				     
+		       
+					       <li class="first crsl-item">						      
+								<h6><a href="http://www.gactv.com/?xp=foodcom_footer" target="_blank" rel="cpct-1">GAC</a></h6> 
+<ul class="list"> 
+<li><a href="http://www.gactv.com/gac/ar_az_luke_bryan?xp=foodcom_footer" target="_blank" rel="cpc-1-1">Luke Bryan Interviews</a></li> 
+<li><a href="http://www.gactv.com/gac/ar_az_blake_shelton?xp=foodcom_footer" target="_blank" rel="cpc-1-2">Dear Blake Shelton</a></li> 
+<li><a href="http://blog.gactv.com/blog/2011/07/28/watch-pistol-annies-debut-music-video-hell-on-heels/?xp=foodcom_footer" target="_blank" rel="cpc-1-3">Pistol Annies Video</a></li> 
+</ul>	
+					       </li> 
+				    
+					       <li class="first crsl-item">						      
+								<div>
+<h6>
+<a target="_blank" href="http://www.travelchannel.com/TV_Shows/Anthony_Bourdain?xp=abnr">Travel Channel</a>
+</h6>
+<div class="bd" style="line-height: 1.3;">
+<p><a target="_blank" href="http://www.travelchannel.com/TV_Shows/Anthony_Bourdain?xp=abnr"><img style="float: left; border: 1px solid #d4d4d4; padding: 1px; margin-right: 4px;" width="92" height="69" border="0" alt="Anthony Bourdain No Reservations" src="http://img.foodnetwork.com/FOOD/2011/08/05/tc_footer-bourdain_s92x69.jpg"></a><a target="_blank" href="http://www.travelchannel.com/daily-escape?xp=foodcom_footer">Follow Tony<br>On His Global<br>Food Tour</a></p>
+</div>
+</div>	
+					       </li> 
+				    
+					       <li class="first crsl-item">						      
+								<h6><a href="http://www.hgtvpro.com/?xp=foodcomfooter" target="_blank" rel="cpct-1">HGTVPro</a></h6> 
+<ul class="list"> 
+<li><a href="http://www.hgtvpro.com/hpro/photo_template/article/0,3140,HPRO_28216_6035592,00.html?nl=HGPro_foodfooter_nkba_kitchens_2011&xp=foodcom_footer" target="_blank" rel="cpc-1-1">Gorgeous Kitchen Photos</a></li> 
+<li><a href="http://www.hgtvpro.com/hpro/photo_template/article/0,3140,HPRO_28216_6038226,00.html?nl=HGPro_foodfooter_nkba_2011_trends&xp=foodcom_footer" target="_blank" rel="cpc-1-2">Design Trends for 2011</a></li> 
+<li><a href="http://www.hgtvpro.com/hpro/photo_template/article/0,3140,HPRO_28216_6030618,00.html?nl=HGPro_foodfooter_greenhome_2011timelapse&xp=foodcom_footer" target="_blank" rel="cpc-1-3">HGTV Green Home Pics</a></li> 
+</ul>	
+					       </li> 
+				    				    
+					</ul>	
+		          </li>
+		   
+			
+		   </ul>
+		 </div>
+	</div>
+	       
+<script type="text/javascript">
+	SNI.Common.Carousel("#crsl-footer", { pagelink:"image" });
+</script>
+	 
+<!-- end footer caousel -->
+
+
+				
+				
+				<!-- coming soon -->
+			</div>
+		</div> 
+	</div>  
+<div id="rz-ft-links">
+		<div class="ft-wrap">
+			<div class="recipe-xpromote list-cols" id="rz-ft-links-1">
+				<h5>Over 400,000 Recipes</h5>
+				<ul class="list" >
+					<li>
+						<a href="http://www.food.com/browse/allrecipes/" rel=" gf-xp-">All Recipes</a>
+					</li>
+					<li>
+						<a href="http://www.food.com/categorycollections.php" rel="All Categories">All Categories</a>
+					</li>
+					<li>
+						<a href="http://www.food.com/recipes-newest" rel="New Recipes">New Recipes</a>
+					</li>
+					<li>
+						<a href="http://www.food.com/random.php" rel="Get a Random Recipe">Get a Random Recipe</a>
+					</li>
+					<li>
+						<a href="http://www.food.com/library/all.zsp" rel="Kitchen Dictionary">Kitchen Dictionary</a>
+					</li>
+					<li>
+						<a href="http://www.food.com/library/calc.zsp" rel="Measurement Converter">Measurement Converter</a>
+					</li>
+					<li>
+						<a href="http://www.food.com/books/" rel="Cookbooks">Cookbooks</a>
+					</li>
+					<li>
+						<a href="http://www.food.com/menu/" rel="Menus">Menus</a>
+					</li>
+					<li>
+						<a href="http://www.food.com/bb/viewforum.zsp?f=1" rel="Request a Recipe">Request a Recipe</a>
+					</li>
+					<li>
+						<a href="http://www.food.com/members/subm/editr2" id="SubmitArecipe" rel="Submit a Recipe">Submit a Recipe</a>
+					</li>
+					<li>
+						<a href="http://www.food.com/help/faq" rel="FAQs">FAQs</a>
+					</li>
+				</ul>
+			</div>
+			<div class="rz-sites list-cols" id="rz-ft-links-2">
+				<h5>Food.com Network of Sites</h5>
+				
+				
+				
+				<ul class="list">
+					<li><a href="http://baking.food.com" rel="Baking Recipes">Baking Recipes</a></li>
+					<li><a href="http://blue.food.com" rel="Blue Recipes">Blue Recipes</a></li>
+					<li><a href="http://breakfast.food.com" rel="Breakfast Recipes">Breakfast Recipes</a></li>
+					<li><a href="http://cheese.food.com" rel="Cheese Recipes">Cheese Recipes</a></li>
+					<li><a href="http://chinese.food.com" rel="Chinese Recipes">Chinese Recipes</a></li>
+				</ul>
+				<ul class="list">
+					<li><a href="http://christmas.food.com" rel="Christmas Recipes">Christmas Recipes</a></li>
+					<li><a href="http://dessert.food.com" rel="Dessert Recipes">Dessert Recipes</a></li>
+					<li><a href="http://healthy.food.com" rel="Healthy Recipes">Healthy Recipes</a></li>
+					<li><a href="http://indian.food.com" rel="Indian Recipes">Indian Recipes</a></li>
+				</ul>
+				<ul class="list">
+					<li><a href="http://italian.food.com" rel="Italian Recipes">Italian Recipes</a></li>
+					<li><a href="http://mexican.food.com" rel="Mexican Recipes">Mexican Recipes</a></li>
+					<li><a href="http://quick-and-easy.food.com" rel="Quick & Easy Recipes">Quick & Easy Recipes</a></li>
+					<li><a href="http://red.food.com" rel="Red Recipes">Red Recipes</a></li>
+				</ul>
+				<ul class="list">
+					<li><a href="http://restaurant.food.com" rel="Restaurant Recipes">Restaurant Recipes</a></li>
+					<li><a href="http://southern.food.com" rel="Southern Recipes">Southern Recipes</a></li>
+					<li><a href="http://thai.food.com" rel="Thai Recipes">Thai Recipes</a></li>
+					<li><a href="http://thanksgiving.food.com" rel="Thanksgiving Recipes">Thanksgiving Recipes</a></li>
+					<li><a href="http://myrecipebox.food.com/homebase.do">MyRecipeBox.Food.com</a></li>
+				</ul>
+			</div>
+			<div class="sn-digital" id="rz-ft-links-3">
+				<h5>SN Digital</h5>
+				<ul class="list">
+					<li><a href="http://www.foodnetwork.com/" rel="Food Network">Food Network</a></li>
+					<li><a href="http://www.food2.com/" rel="Food2">Food2</a></li>
+					<li><a href="http://www.cookingchanneltv.com/" rel="Cooking Channel">Cooking Channel</a></li>
+					<li><a href="http://www.foodnetwork.co.uk/" rel="Food Network UK">Food Network UK</a></li>
+					<li><a href="http://www.hgtv.com/" rel="HGTV">HGTV</a></li>
+					<li><a href="http://www.hgtvpro.com/" rel="HGTV Pro">HGTV Pro</a></li>
+					<li><a href="http://www.diynetwork.com/" rel="DIY Network">DIY Network</a></li>
+					<li><a href="http://www.frontdoor.com/" rel="FrontDoor">FrontDoor</a></li>
+					<li><a href="http://www.gactv.com/" rel="GAC">GAC</a></li>
+					<li><a href="http://www.travelchannel.com/" rel="Travel Channel">Travel Channel</a></li>
+				</ul>
+			</div>
+		</div> 
+	</div> 
+	<div class="rz-legal">
+		<div class="ft-wrap" id="rz-ft-links-4">
+			<div class="brand">
+				<a href="http://www.food.com">Food.com: The most complete collection of free recipes on the Internet, trusted by home chefs throughout the world.</a>
+			</div>
+			<div class="wrap">
+				<p>Comparison Shop for <a href="http://www.bizrate.com/appliances" rel="gf-sisters-1">Kitchen Appliances</a> &amp; <a href="http://www.bizrate.com/kitchen-supplies-utensils" rel="gf-sisters-2">Utensils</a> at <a href="http://www.shopzilla.com" rel="gf-sisters-3">Shopzilla</a> &amp; <a href="http://www.bizrate.com" rel="gf-sisters-4">BizRate</a>.</p>
+        <p>&copy; 2011 <a href="http://www.scrippsnetworks.com" rel="Scripps Networks">Scripps Networks</a>, LLC. All Rights Reserved</p>
+				<p><a href="http://www.food.com/about/tos.zsp" rel="gf-legal-1">NEW Terms of Use</a> | <a href="http://www.food.com/about/privacy.zsp" rel="gf-legal-2">NEW Privacy and CA Privacy Rights</a> | <a href="http://www.scrippsnetworksdigital.com/foodcat/default.aspx" rel="gf-legal-3">Advertise with us</a> | <a href="http://www.food.com/about/infringements.zsp" rel="gf-legal-4">Infringements</a> | <a href="http://www.food.com/about/contactus.zsp" rel="gf-legal-5">Contact us</a> | <a href="http://www.food.com/help/faq" rel="gf-legal-6">Help</a></p>
+			</div>
+		</div>
+	</div>
+</div> 	
+
+<script type="text/javascript">
+// Following code Capture asset stats in asset_stats table .. So don't delete if any clarifications ask to VASANTH
+<!--
+try{
+	assetStats();
+}catch(e){}
+//-->
+</script>		
+<script type="text/javascript" src="http://food.sndimg.com/js/rz2/sni-rz/s_code_remote.js"></script>
+<script src="http://js.revsci.net/gateway/gw.js?csid=A09802"></script> 
+<script language="javascript"> 
+	if (typeof g_adkeyword != "undefined") {
+		SNI.RSI.setvars(g_adkeyword);
+	}
+</script>
+<script type="text/javascript">s.t();</script>
+
+	
+<script type="text/javascript">
+	SNI.Omniture.pageType = "RECIPE";
+
+
+	//SNI.Omniture.SingleVar("#addPrivateNote","Add Private Note","","RS","event28");	
+	
+	//SNI.Omniture.SingleVar("#searchsuggestion","Results Flyout","","OTHER");
+	//SNI.Omniture.SingleVar("#rz-search-submit","Header Search","");
+	//SNI.Omniture.SingleVar("#site-search-options-id","Header Search Dropdown","");	
+	//SNI.Omniture.SingleVar("#autoSuggest","Header : Search","","SO");	
+	//SNI.Omniture.SingleVar("#SubmitArecipe","Recipe Submit","","RS","event40");
+	//SNI.Omniture.SingleVar("#add-to-cb-id","Add to Cookbook","RECIPE","A2CM","event17");
+	//SNI.Omniture.SingleVar("#add-to-sl","Add to Shopping List","RECIPE","A2CM","event20");
+	//SNI.Omniture.SingleVar("#add-to-m","Add to Menu","RECIPE","A2CM","event16");
+
+	//SNI.Omniture.SingleVar("#postreview","Recipe Rate","RECIPE","RR","event15");
+	//SNI.Omniture.SingleVar("#mailShare","Email","Sausage And Pepperoni Cheese Stuffed Calzone Recipe - Food.com - 284057","EM2F","event13");
+	
+	//SNI.Omniture.SingleVar("#nxt-recipe","Next Recipe","RECIPE","A2CM");
+	//SNI.Omniture.SingleVar("#nxt-recipe-img","Next Recipe","RECIPE","A2CM");
+	//SNI.Omniture.SingleVar("#nxt-recipe-txt","Next Recipe","RECIPE","A2CM");
+	
+	//SNI.Omniture.SingleVar("#justadded","Just Added","RECIPE","OTHER");
+	//SNI.Omniture.SingleVar("#justaddedimg","Just Added","RECIPE","OTHER");
+	
+	//SNI.Omniture.SingleVar("#eatingseason","Eating in Season","RECIPE","OTHER");
+	//SNI.Omniture.SingleVar("#fav-action-id","Favorite","RECIPE","FT");
+	//SNI.Omniture.SingleVar("#sub-action-id","RSS Subscribe ","RECIPE","RSS","event42");
+	//SNI.Omniture.SingleVar("#rz-rate-it","Recipe Rate","Sausage And Pepperoni Cheese Stuffed Calzone Recipe - Food.com - 284057");
+	//SNI.Omniture.SingleVar("#codimg","Chef of the Day : Image ","RECIPE","COD");
+	//SNI.Omniture.SingleVar("#codname","Chef of the Day","RECIPE","COD");
+	//SNI.Omniture.SingleVar("#codmore","Chef of the Day","RECIPE","COD");
+
+//-----------
+
+	//SNI.Omniture.MultiVar("#add-to-cb-id","Add to Cookbook","RECIPE");
+	//SNI.Omniture.MultiVar("#add-to-sl","Add to Shopping List","RECIPE");
+	//SNI.Omniture.MultiVar("#add-to-m","Add to Menu","RECIPE");
+
+	SNI.Omniture.MultiVar("#postreview","Recipe Rate");
+	SNI.Omniture.MultiVar("#mailShare","Email");
+	
+	SNI.Omniture.MultiVar("#nxt-recipe","Next Recipe Top Right");
+	SNI.Omniture.MultiVar("#nxt-recipe-img","Next Recipe Top Right");
+	SNI.Omniture.MultiVar("#nxt-recipe-txt","Next Recipe Top Right");
+	SNI.Omniture.MultiVar("#nxt-recipe-by","Next Recipe Top Right");
+
+
+	SNI.Omniture.MultiVar("#justadded","Just Added");
+	SNI.Omniture.MultiVar("#justaddedimg","Just Added");
+	
+	SNI.Omniture.MultiVar("#eatingseason","Eating in Season");
+	SNI.Omniture.MultiVar("#fav-action-id","Favorite");
+	SNI.Omniture.MultiVar("#sub-action-id","RSS Subscribe ");
+	SNI.Omniture.MultiVar("#rz-rate-it","Recipe Rate");
+	SNI.Omniture.MultiVar("#codimg","Chef of the Day : Image ");
+	SNI.Omniture.MultiVar("#codname","Chef of the Day");
+	SNI.Omniture.MultiVar("#codmore","Chef of the Day");
+	
+	
+
+//---------------
+
+	
+	SNI.Omniture.MultiVar("#sifter-total","Get Recipe");
+	SNI.Omniture.MultiVar("#NavSignedOut","Header");
+	SNI.Omniture.MultiVar("#NavSignedIn","Header");
+	SNI.Omniture.MultiVar("#rz-ft-links-1","Footer");
+	SNI.Omniture.MultiVar("#rz-ft-links-2","Footer");
+	SNI.Omniture.MultiVar("#rz-ft-links-3","Footer");
+	SNI.Omniture.MultiVar("#rz-ft-links-4","Footer");
+	SNI.Omniture.MultiVar("#rz-sponsored-links","Ideas From");
+	SNI.Omniture.MultiVar("#more-rz","More From");
+	SNI.Omniture.MultiVar("#rz-family","Cross Promo");
+	
+	SNI.Omniture.MultiVar("#TopCatDiv","Popular Categories");
+	SNI.Omniture.MultiVar("#topSearchDiv","Top Ten Searches");
+	SNI.Omniture.MultiVar("#headlineID","Top Rated Recipes");	
+	SNI.Omniture.MultiVar("#recipeOfDayImg","Recipe of the Day");
+	SNI.Omniture.MultiVar("#recipeOfDayName","Recipe of the Day");
+	SNI.Omniture.MultiVar("#more-in-id","More In");
+	SNI.Omniture.MultiVar("#pod-filter-interested-in-id","You Might Be Interested In");
+	SNI.Omniture.MultiVar("#recipe-like-these-id","Recipes Like This");
+	SNI.Omniture.MultiVar("#slf-item-id","Narrow Your Search Module");
+	SNI.Omniture.MultiVar("#topic-promo-id","Search Results - Topic Promo");	
+
+	SNI.Omniture.MultiVar("#NavSignedOut","Header");
+	SNI.Omniture.MultiVar("#NavSignedIn","Header");
+
+//Recipe Tools
+	SNI.Omniture.MultiVar("#prntrec","Recipe Tools");
+	SNI.Omniture.MultiVar("#viewfs","Recipe Tools");
+	SNI.Omniture.MultiVar("#addyph","Recipe Tools");
+	SNI.Omniture.MultiVar("#wrrev","Recipe Tools");
+	SNI.Omniture.MultiVar("#subycorr","Recipe Tools");
+
+	
+	//SNI.Omniture.MultiVar("#addpnote","Add Private Note");
+	
+	SNI.Omniture.MultiVar("#edthrec","Edit This Recipe");
+
+	//SNI.Omniture.MultiVar("#addtocb","Add To Cookbook this Recipe");
+
+	SNI.Omniture.MultiVar("#addtosl","Add to Shopping list");
+	//SNI.Omniture.MultiVar("#addtomn","Add to menu to this Recipe");
+	//SNI.Omniture.MultiVar("#sendtmob","Share This Recipe");
+	SNI.Omniture.MultiVar("#twitter-omniture","Share This Recipe");
+	SNI.Omniture.MultiVar("#recipe-facebook","Share This Recipe");
+
+		
+	SNI.Omniture.MultiVar("#sheml","Email Recipe");
+	SNI.Omniture.MultiVar("#shsh","Share The Recipe");
+	SNI.Omniture.MultiVar("#prnthisrep","Print This Recipe");
+	SNI.Omniture.MultiVar("#bmrec","Browse More Recipes");
+
+
+	SNI.Omniture.MultiVar("#ratid","Rate it");
+	SNI.Omniture.MultiVar("#postreview","Rate and Review Submit");
+	SNI.Omniture.MultiVar("#addtim","Add Timer");
+	SNI.Omniture.MultiVar("#brtoprec","Browse top recipe");
+	SNI.Omniture.MultiVar("#vallreccoll","View All Recipe Collection");
+	
+	
+	//SNI.Omniture.MultiVar("#addPrivateNote","Add Private Note");
+	SNI.Omniture.MultiVar("#ViewAllRecipe","View All from Next Recipe");
+	SNI.Omniture.MultiVar("#redrvl","Read Total Review");
+	SNI.Omniture.MultiVar("#enlrphoto","Enlarge Photo");
+	SNI.Omniture.MultiVar("#readthereview","Read the Review");
+	SNI.Omniture.MultiVar("#reccoll","Recipe Collections");
+
+
+
+</script>
+<script type="text/javascript">
+if(document.getElementById("p2-food-home") != null){
+var S_url = document.location+"";
+if(S_url.indexOf("?")!=-1){
+	S_url = S_url.substring(0,S_url.indexOf("?"));
+}
+if(S_url.indexOf("test1")!=-1){
+result = "http://www.test1-food.com";
+}
+else if(S_url.indexOf("staging")!=-1){
+result = "http://www.test2-food.com" ;
+}
+else{
+result = "http://www.food.com";
+}
+document.getElementById("p2-food-home").href=unescape(result);
+if(document.getElementById("p2-food-sitemap") != null) {
+	result = result + "/sitemap.do";
+	document.getElementById("p2-food-sitemap").href=unescape(result);
+}
+
+}
+</script>
+
+<script type="text/javascript"> 
+	SuperstitialAd(2);
+	SuperstitialAd(3);
+</script>
+<script type="text/javascript">
+if(document.location.protocol=='http:'){
+ var Tynt=Tynt||[];Tynt.push('aeNYyiayCr4ktEadbi-bnq');
+ (function(){var s=document.createElement('script');s.async="async";s.type="text/javascript";s.src='http://tcr.tynt.com/ti.js';var h=document.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);})();
+}
+</script>
+
+<!-- START Nielsen Online SiteCensus V6.0 -->
+<!-- COPYRIGHT 2010 Nielsen Online -->
+<script type="text/javascript">
+  (function () {
+    var d = new Image(1, 1);
+    d.onerror = d.onload = function () {
+      d.onerror = d.onload = null;
+    };
+    d.src = ["//secure-us.imrworldwide.com/cgi-bin/m?ci=us-200639h&cg=0&cc=1&si=", escape(window.location.href), "&rp=", escape(document.referrer), "&ts=compact&rnd=", (new Date()).getTime()].join('');
+  })();
+</script>
+<noscript>
+  <div>
+    <img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-200639h&amp;cg=0&amp;cc=1&amp;ts=noscript"
+    width="1" height="1" alt="" />
+  </div>
+</noscript>
+<!-- END Nielsen Online SiteCensus V6.0 -->
+
+</body>
+</html>
+
+
+
+
+
+
+
